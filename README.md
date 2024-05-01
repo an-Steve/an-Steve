@@ -3,4 +3,4 @@
 💻 Ses compétences en informatique sont polyvalentes, allant de la conception web avec HTML, CSS, JavaScript et PHP à la manipulation de bases de données SQL. Sa maîtrise de QML témoigne de son intérêt pour les interfaces graphiques et les applications embarquées.
 
 🚀 Motivé pour contribuer à des projets innovants et acquérir une expérience pratique dans le domaine des systèmes embarqués, tout en enrichissant ses compétences techniques et son expertise professionnelle.
---
+
