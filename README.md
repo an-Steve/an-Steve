@@ -1,6 +1,6 @@
-👨‍💻 Steve, étudiant en troisième année de Licence Informatique des Systèmes embarqués et intéractif, est passionné par les systèmes embarqués et l'informatique. Actuellement à la recherche d'une opportunité d'alternance, je vise une Master   à L'Université Paris 8 pour approfondir ses connaissances pendant 12 mois, avec un rythme de 2 jours en entreprise et 3 jours à l'école.
+👨‍💻 Je suis étudiant en Master Informatique, spécialisé en Big Data. Actuellement à la recherche d’un stage de 3 mois à partir d’avril 2026, je souhaite mettre en pratique mes compétences dans un environnement professionnel stimulant.
 
-💻 Ses compétences en informatique sont polyvalentes, allant de la conception web avec HTML, CSS, JavaScript et PHP à la manipulation de bases de données SQL. La maîtrise de QML témoigne de son intérêt pour les interfaces graphiques et les applications embarquées.
+💻 Je possède des compétences solides en développement web (HTML, CSS, JavaScript, PHP), développement mobile, gestion de bases de données SQL, ainsi qu’en Big Data. Je maîtrise également QML, témoignant de mon intérêt pour les interfaces graphiques.
 
-🚀 Motivé pour contribuer à des projets innovants et acquérir une expérience pratique dans le domaine des systèmes embarqués, tout en enrichissant ses compétences techniques et son expertise professionnelle.
+🚀 Curieux et motivé, je souhaite contribuer activement à des projets innovants tout en développant mon expertise technique dans le domaine du Big Data.
 
