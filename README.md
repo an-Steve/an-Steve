@@ -4,3 +4,8 @@
 
 🚀 Curieux et motivé, je souhaite contribuer activement à des projets innovants tout en développant mon expertise technique dans le domaine du Big Data.
 
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-nom-utilisateur/)
+
+
