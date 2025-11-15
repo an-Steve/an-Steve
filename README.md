@@ -86,7 +86,7 @@
 
 > ### 🖥️ Développeur informatique  
 > **StreamVision – Paris**  
-> 📅 *04 juillet 2023* | 🎓 *BTS*  
+> 📅 *12 mai au 04 juillet 2023* | 🎓 *BTS*  
 > - Création d’un affichage dynamique pour un hôtel pendant les **JO 2024**  
 > - Développement d’une interface interactive (**HTML, CSS, JavaScript**)  
 > - Administration d’un compte entreprise sur **Amazon AWS**
