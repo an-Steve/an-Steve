@@ -75,23 +75,23 @@
 
 ## 🏆 Expériences académiques 
 
-### Développeur de site web et d’application  
-**TiqTec – La Courneuve**  
-- Développement d’un site web vitrine avec **WordPress** et **Laragon**  
--  Développement d’une application Android avec **Kotlin**  
+> ### 💻 Développeur de site web et d’application  
+> **TiqTec – La Courneuve**  
+> 📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
+> - Développement d’un site web vitrine avec **WordPress** et **Laragon**  
+> - Création d’une application Android avec **Kotlin**  
+> - Développement d’un jeu d’échecs en 2D avec **Python** et **Pygame**  
+> - Tests de fonctionnalités en tant que **testeur de jeu vidéo**  
+> - Gestion de la base de données **PhpMyAdmin** sur **MySQL**
 
----
+> ### 🖥️ Développeur informatique  
+> **StreamVision – Paris**  
+> 📅 *04 juillet 2023* | 🎓 *BTS*  
+> - Création d’un affichage dynamique pour un hôtel pendant les **JO 2024**  
+> - Développement d’une interface interactive (**HTML, CSS, JavaScript**)  
+> - Administration d’un compte entreprise sur **Amazon AWS**
 
-###  Développeur informatique  
-**StreamVision – Paris**  
--  Développement d’un jeu d’échecs en 2D avec **Python** et **Pygame**  
--  Tests de fonctionnalités en tant que **testeur de logiciel**  
--  Gestion de la base de données **PhpMyAdmin** de *MyScol*  
-
----
-
-### Stage d’observation de 3ème  
-**École Maternelle Paul Langevin – Drancy**  
-- 👀 Découverte du fonctionnement d’un environnement informatique scolaire  
-
----
+> ### 🎓 Stage d’observation de 3ème  
+> **École Maternelle Paul Langevin – Drancy**  
+> 📅 *Décembre 2017 (1 semaine)*  
+> - Découverte du fonctionnement d’un environnement informatique scolaire
