@@ -36,12 +36,10 @@
 - 🗄️ **Bases de Données :**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
-  <img src="https://img.icons8.com/color/48/phpmyadmin.png" width="40"/> 
-  <img src="https://img.icons8.com/color/48/laragon.png" width="40"/>  
 
 - 🌍 **Réseaux et Routage :**  
   <img src="https://img.icons8.com/color/48/network.png" width="40"/> 
-  <img src="https://img.icons8.com/color/48/cisco.png" width="40"/>  
+  
 
 - ⚙️ **Programmation système :**  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> 
