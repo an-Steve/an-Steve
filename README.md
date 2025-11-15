@@ -73,3 +73,25 @@
   </tr>
 </table>
 
+## 🏆 Expériences académiques 
+
+### Développeur de site web et d’application  
+**TiqTec – La Courneuve**  
+- Développement d’un site web vitrine avec **WordPress** et **Laragon**  
+-  Développement d’une application Android avec **Kotlin**  
+
+---
+
+###  Développeur informatique  
+**StreamVision – Paris**  
+-  Développement d’un jeu d’échecs en 2D avec **Python** et **Pygame**  
+-  Tests de fonctionnalités en tant que **testeur de logiciel**  
+-  Gestion de la base de données **PhpMyAdmin** de *MyScol*  
+
+---
+
+### Stage d’observation de 3ème  
+**École Maternelle Paul Langevin – Drancy**  
+- 👀 Découverte du fonctionnement d’un environnement informatique scolaire  
+
+---
