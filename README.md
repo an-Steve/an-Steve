@@ -43,7 +43,6 @@
     </td>
     <td>🌍 <b>Réseaux & Routage</b><br>
       <img src="https://img.icons8.com/color/48/network.png" width="40"/>
-      <img src="https://img.icons8.com/color/48/cisco.png" width="40"/>
     </td>
     <td>⚙️ <b>Programmation système</b><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
