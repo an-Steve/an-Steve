@@ -112,9 +112,9 @@
 
    ## 📚 Parcours académique
 
-Brevet       BAC                                  
+Brevet                BAC                                  
    ◉---------◉----------◉-----------◉--------------◉------------------------◉ 
- 2018        2021             2024                 2025                     En cours
+ 2018                    2021             2024                 2025                                                                        En cours
 
 
  <h2>🛠️ Expériences professionnelles</h2>
