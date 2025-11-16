@@ -121,6 +121,9 @@
 >   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
  </ul>
 
+
+ 
+
  <h2>🤝 Bénévolat</h2>
 
 > <h3>🎤 Animateur</h3>
