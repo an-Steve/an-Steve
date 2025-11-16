@@ -121,10 +121,19 @@
 >   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
  </ul>
 
+ <h2>🤝 Bénévolat</h2>
+
+> <h3>🎤 Animateur</h3>
+> <strong>Diocèse de Saint Denis</strong><br>
+> 📅 <em>Septembre 2024 – Actuel</em><br>
+> <ul>
+>   <li>Animation et encadrement d’activités pour enfants</li>
+>   <li>Organisation d’événements</li>
+> </ul>
+
    </td>
    </tr>
-</table>
-
+ </table>
 
 
 
