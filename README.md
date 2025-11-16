@@ -117,7 +117,7 @@
   Brevet          Bac          BTS        Licence        Master 
 des collèges     STI2D         SNIR        ISEI           IBD
     ◉--------------◉-----------◉-----------◉-------------◉
- 2018              2021        2024         2025         En cours
+   2018           2021         2024         2025        En cours
 ```
 
 
