@@ -4,16 +4,10 @@
 📍 Basé à Paris, France  
 🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026  
 📄 MON CV :  [Télécharger mon CV](https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y)
-
 ## 📚 Parcours académique
 
-timeline
-    title Mon parcours académique
-    2017 : Brevet des collèges
-    2021 : Bac STI2D
-    2023 : BTS SIO
-    2025 : Licence Informatique
-    2026 : Master Big Data
+🏫 Brevet (2017) ---- 🎓 Bac STI2D (2021) ---- 💻 BTS SIO (2023) ---- 🎓 Licence (2025) ---- 📊 Master Big Data (2026)
+
 
 
 ## 📎 Réseaux & Contact
