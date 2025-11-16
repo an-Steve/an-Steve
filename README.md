@@ -73,48 +73,61 @@
   </tr>
 </table>
 
-
 <table>
   <tr>
     <!-- Colonne gauche : Académiques -->
     <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
 
-### 🏆 Expériences académiques
+<h2>🏆 Expériences académiques</h2>
 
-#### 💻 Développeur de site web et d’application  
-**TiqTec – La Courneuve**  
-📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
-- WordPress, Laragon  
-- Kotlin (Android)  
-- Python/Pygame (échecs 2D)  
-- Testeur de jeu vidéo  
-- PhpMyAdmin + MySQL  
+<h3>💻 Développeur de site web et d’application</h3>
+<strong>TiqTec – La Courneuve</strong><br>
+📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
+<ul>
+  <li>Conception d’un site vitrine avec <strong>WordPress</strong> et <strong>Laragon</strong></li>
+  <li>Développement d’une application Android en <strong>Kotlin</strong></li>
+  <li>Réalisation d’un jeu d’échecs 2D avec <strong>Python</strong> et <strong>Pygame</strong></li>
+  <li>Participation aux tests de fonctionnalités en tant que <strong>testeur de jeu vidéo</strong></li>
+  <li>Gestion et administration de bases de données via <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
+</ul>
 
-#### 🖥️ Développeur informatique  
-**Vincent-Simion – Paris**  
-📅 *01 septembre 2021 – 30 juin 2023* | 🎓 *BTS*  
-- Affichage dynamique JO 2024  
-- Interface HTML/CSS/JS  
-- Amazon AWS  
+<h3>🖥️ Développeur informatique</h3>
+<strong>StreamVision – Paris</strong><br>
+📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
+<ul>
+  <li>Mise en place d’un affichage dynamique pour un hôtel lors des <strong>JO 2024</strong></li>
+  <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
+  <li>Administration et gestion d’un compte entreprise sur <strong>Amazon AWS</strong></li>
+</ul>
 
-    </td>
+<h3>🎓 Stage d’observation (3ème)</h3>
+<strong>École Maternelle Paul Langevin – Drancy</strong><br>
+📅 <em>Décembre 2017 – 1 semaine</em><br>
+<ul>
+  <li>Initiation au fonctionnement d’un environnement informatique scolaire</li>
+</ul>
+
+  </td>
 
     <!-- Colonne droite : Professionnelles -->
-    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+  <td style="vertical-align: top; width: 50%; padding-left: 20px;">
 
-### 🛠️ Expériences professionnelles
+<h2>🛠️ Expériences professionnelles</h2>
 
-#### 📦 Préparateur de commandes  
-**Carrefour SupplyChain – La Courneuve**  
-📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
-- Préparation des commandes  
-- Organisation des palettes  
-- Respect des normes logistiques  
-- CACES obtenu en juillet 2022  
+<h3>📦 Préparateur de commandes</h3>
+<strong>Carrefour SupplyChain – La Courneuve</strong><br>
+📅 <em>Juillet 2022 – Actuel</em> | 🧰 <em>Intérim</em><br>
+<ul>
+  <li>Préparation et organisation des commandes destinées aux magasins</li>
+  <li>Construction et agencement des palettes selon les procédures établies</li>
+  <li>Application des règles logistiques et de sécurité</li>
+  <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
+</ul>
 
     </td>
   </tr>
 </table>
+
 
 
 
