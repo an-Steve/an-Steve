@@ -73,7 +73,7 @@
   </tr>
 </table>
 
-> ## 🏆 Expériences académiques
+## 🏆 Expériences académiques
 >
 > ### 💻 Développeur de site web et d’application  
 > **TiqTec – La Courneuve**  
@@ -83,21 +83,21 @@
 > - Réalisation d’un jeu d’échecs 2D avec **Python** et **Pygame**  
 > - Participation aux tests de fonctionnalités en tant que **testeur de jeu vidéo**  
 > - Gestion et administration de bases de données via **PhpMyAdmin** et **MySQL**
->
+
 > ### 🖥️ Développeur informatique  
 > **StreamVision – Paris**  
 > 📅 *12 mai – 04 juillet 2023* | 🎓 *BTS*  
 > - Mise en place d’un affichage dynamique pour un hôtel lors des **JO 2024**  
 > - Développement d’interfaces interactives (**HTML, CSS, JavaScript**)  
 > - Administration et gestion d’un compte entreprise sur **Amazon AWS**
->
+
 > ### 🎓 Stage d’observation (3ème)  
 > **École Maternelle Paul Langevin – Drancy**  
 > 📅 *Décembre 2017 – 1 semaine*  
 > - Initiation au fonctionnement d’un environnement informatique scolaire
 
-> ## 🛠️ Expériences professionnelles
->
+ ## 🛠️ Expériences professionnelles
+
 > ### 📦 Préparateur de commandes  
 > **Carrefour SupplyChain – La Courneuve**  
 > 📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
