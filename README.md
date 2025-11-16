@@ -75,7 +75,6 @@
 
 <table>
   <tr>
-    <!-- Colonne gauche : Académiques -->
     <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
 
 ## 🏆 Expériences académiques
@@ -100,8 +99,6 @@
 > **École Maternelle Paul Langevin – Drancy**  
 > 📅 *Décembre 2017 – 1 semaine*  
     </td>
-
-    <!-- Colonne droite : Professionnelles -->
     
   <td style="vertical-align: top; width: 50%; padding-left: 20px;">
 
