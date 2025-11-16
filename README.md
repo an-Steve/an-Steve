@@ -112,10 +112,8 @@
 
    ## 📚 Parcours académique
 
-   ## 📚 Parcours académique
-
-Brevet      Bac STI2D           BTS SNIR            Licence ISEI              Master Informatique et Big Data  
-   ◉---------◉----------◉-----------◉-------------◉  
+Brevet                                      
+   ◉---------◉----------◉-----------◉--------------◉--------------------------◉ 
  2018         2021             2024                 2025                     En cours
 
 
