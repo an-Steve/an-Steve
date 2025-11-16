@@ -1,9 +1,23 @@
-# 👋 Bonjour, je suis ANTON NELCON Steve
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y" alt="banner" width="80%" />
+</p>
 
-🎓 Étudiant en Master Informatique, spécialité Big Data à l’Université Paris 8  
+# 👋 Bonjour, je suis **ANTON NELCON Steve**
+
+🎓 **Étudiant en Master Informatique**, spécialité **Big Data** – Université Paris 8  
 📍 Basé à Paris, France  
-🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026  
-📄 MON CV :  [Télécharger mon CV](https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y)
+🚀 À la recherche d’un **stage de 3 à 6 mois à partir d’avril 2026**
+
+📄 **🟨 MON CV :**  
+<a href="https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y" target="_blank">📄 Télécharger mon CV</a>
+
+---
+
+## 🙋🏿 À propos de moi
+
+Je suis un étudiant motivé et passionné par le **Big Data, l’Intelligence Artificielle et le développement informatique**.  
+
+---
 
 
 
