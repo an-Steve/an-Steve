@@ -98,7 +98,7 @@
 
 ## 🛠️ Expériences professionnelles
 
-> ### 📦 Préparateur de commandes  
+> ## 📦 Préparateur de commandes  
 > **Carrefour SupplyChain – La Courneuve**  
 > 📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
 > - Préparation des commandes destinées aux magasins  
