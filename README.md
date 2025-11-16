@@ -7,7 +7,6 @@
 
 ## 📚 Parcours académique
 
-```mermaid
 timeline
     title Mon parcours académique
     2017 : Brevet des collèges
