@@ -75,7 +75,6 @@
 
 <table>
   <tr>
-    <!-- Colonne gauche : Académiques -->
     <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
 
 <h2>🏆 Expériences académiques</h2>
@@ -107,10 +106,7 @@
   <li>Initiation au fonctionnement d’un environnement informatique scolaire</li>
 </ul>
 
-    </td>
-
-    <!-- Colonne droite : Professionnelles -->
-    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+   </td>
 
 <h2>🛠️ Expériences professionnelles</h2>
 
@@ -124,7 +120,7 @@
   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
 </ul>
 
-    </td>
+  </td>
   </tr>
 </table>
 
