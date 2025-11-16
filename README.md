@@ -95,16 +95,16 @@
 
 > ### 🎓 Stage d’observation de 3ème  
 > **École Maternelle Paul Langevin – Drancy**
+> 📅 *Décembre 2017 (1 semaine)*  
+> - Découverte du fonctionnement d’un environnement informatique scolaire
+
 
 ## 🛠️ Expériences professionnelles
 
-> ## 📦 Préparateur de commandes  
+> ### 📦 Préparateur de commandes  
 > **Carrefour SupplyChain – La Courneuve**  
 > 📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
 > - Préparation des commandes destinées aux magasins  
 > - Construction et organisation des palettes selon les modes opératoires  
 > - Respect des procédures logistiques et de sécurité  
 > - Obtention du **CACES** en *juillet 2022*
-
-> 📅 *Décembre 2017 (1 semaine)*  
-> - Découverte du fonctionnement d’un environnement informatique scolaire
