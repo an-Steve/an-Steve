@@ -76,36 +76,42 @@
 
 <table>
   <tr>
+    <!-- Colonne gauche : Académiques -->
     <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
-## 🏆 Expériences académiques
-> ### 💻 Développeur de site web et d’application  
-> **TiqTec – La Courneuve**  
-> 📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
-> - Conception d’un site vitrine avec **WordPress** et **Laragon**  
-> - Développement d’une application Android en **Kotlin**  
-> - Réalisation d’un jeu d’échecs 2D avec **Python** et **Pygame**  
-> - Participation aux tests de fonctionnalités en tant que **testeur de jeu vidéo**  
-> - Gestion et administration de bases de données via **PhpMyAdmin** et **MySQL**
-> ### 🖥️ Développeur informatique  
-> **StreamVision – Paris**  
-> 📅 *12 mai – 04 juillet 2023* | 🎓 *BTS*  
-> - Mise en place d’un affichage dynamique pour un hôtel lors des **JO 2024**  
-> - Développement d’interfaces interactives (**HTML, CSS, JavaScript**)  
-> - Administration et gestion d’un compte entreprise sur **Amazon AWS**
-> ### 🎓 Stage d’observation (3ème)  
-> **École Maternelle Paul Langevin – Drancy**  
-> 📅 *Décembre 2017 – 1 semaine*
+
+### 🏆 Expériences académiques
+
+#### 💻 Développeur de site web et d’application  
+**TiqTec – La Courneuve**  
+📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
+- WordPress, Laragon  
+- Kotlin (Android)  
+- Python/Pygame (échecs 2D)  
+- Testeur de jeu vidéo  
+- PhpMyAdmin + MySQL  
+
+#### 🖥️ Développeur informatique  
+**Vincent-Simion – Paris**  
+📅 *01 septembre 2021 – 30 juin 2023* | 🎓 *BTS*  
+- Affichage dynamique JO 2024  
+- Interface HTML/CSS/JS  
+- Amazon AWS  
+
     </td>
 
-  <td style="vertical-align: top; width: 50%; padding-left: 20px;">
-## 🛠️ Expériences professionnelles
-> ### 📦 Préparateur de commandes  
-> **Carrefour SupplyChain – La Courneuve**  
-> 📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
-> - Préparation et organisation des commandes destinées aux magasins  
-> - Construction et agencement des palettes selon les procédures établies  
-> - Application des règles logistiques et de sécurité  
-> - Obtention du **CACES** en *juillet 2022*
+    <!-- Colonne droite : Professionnelles -->
+    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+
+### 🛠️ Expériences professionnelles
+
+#### 📦 Préparateur de commandes  
+**Carrefour SupplyChain – La Courneuve**  
+📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
+- Préparation des commandes  
+- Organisation des palettes  
+- Respect des normes logistiques  
+- CACES obtenu en juillet 2022  
+
     </td>
   </tr>
 </table>
