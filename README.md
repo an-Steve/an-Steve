@@ -110,6 +110,8 @@
    <!-- Colonne droite : Professionnelles -->
    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
 
+   ## 📚 Parcours académique
+
    Brevet      Bac        BTS        Licence        Master
    ◉---------◉----------◉-----------◉-------------◉
 
