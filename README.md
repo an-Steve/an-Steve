@@ -73,51 +73,42 @@
   </tr>
 </table>
 
+
 <table>
   <tr>
     <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
-
-> ## 🏆 Expériences académiques
->
+## 🏆 Expériences académiques
 > ### 💻 Développeur de site web et d’application  
 > **TiqTec – La Courneuve**  
 > 📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
 > - Conception d’un site vitrine avec **WordPress** et **Laragon**  
-> - Développement d’une application Android avec **Kotlin**  
-> - Réalisation d’un jeu d’échecs en 2D avec **Python** et **Pygame**  
-> - Participation aux tests en tant que **testeur de jeu vidéo**  
-> - Gestion de la base de données via **PhpMyAdmin** et **MySQL**
->
+> - Développement d’une application Android en **Kotlin**  
+> - Réalisation d’un jeu d’échecs 2D avec **Python** et **Pygame**  
+> - Participation aux tests de fonctionnalités en tant que **testeur de jeu vidéo**  
+> - Gestion et administration de bases de données via **PhpMyAdmin** et **MySQL**
 > ### 🖥️ Développeur informatique  
 > **StreamVision – Paris**  
 > 📅 *12 mai – 04 juillet 2023* | 🎓 *BTS*  
-> - Affichage dynamique pour un hôtel pendant les **JO 2024**  
-> - Interface interactive (**HTML, CSS, JavaScript**)  
-> - Administration d’un compte entreprise sur **Amazon AWS**
->
+> - Mise en place d’un affichage dynamique pour un hôtel lors des **JO 2024**  
+> - Développement d’interfaces interactives (**HTML, CSS, JavaScript**)  
+> - Administration et gestion d’un compte entreprise sur **Amazon AWS**
 > ### 🎓 Stage d’observation (3ème)  
 > **École Maternelle Paul Langevin – Drancy**  
-> 📅 *Décembre 2017 – 1 semaine*  
-> - Découverte du fonctionnement d’un environnement informatique scolaire
-
-  </td>
+> 📅 *Décembre 2017 – 1 semaine*
+    </td>
 
   <td style="vertical-align: top; width: 50%; padding-left: 20px;">
-
 ## 🛠️ Expériences professionnelles
-
-### 📦 Préparateur de commandes  
-**Carrefour SupplyChain – La Courneuve**  
-📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
-- Préparation et organisation des commandes destinées aux magasins  
-- Construction et agencement des palettes selon les procédures établies  
-- Application des règles logistiques et de sécurité  
-- Obtention du **CACES** en *juillet 2022*
-
+> ### 📦 Préparateur de commandes  
+> **Carrefour SupplyChain – La Courneuve**  
+> 📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
+> - Préparation et organisation des commandes destinées aux magasins  
+> - Construction et agencement des palettes selon les procédures établies  
+> - Application des règles logistiques et de sécurité  
+> - Obtention du **CACES** en *juillet 2022*
     </td>
   </tr>
 </table>
-
 
 
 
