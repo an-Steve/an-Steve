@@ -76,49 +76,58 @@
 <table>
   <tr>
     <td>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
 
-<div style="display: flex; gap: 40px;">
+<h3>🏆 Expériences académiques</h3>
 
-  <div style="flex: 1;">
+<h4>💻 Développeur de site web et d’application</h4>
+<strong>TiqTec – La Courneuve</strong><br>
+📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
+<ul>
+  <li>WordPress, Laragon</li>
+  <li>Kotlin (Android)</li>
+  <li>Python/Pygame (échecs 2D)</li>
+  <li>Testeur de jeu vidéo</li>
+  <li>PhpMyAdmin + MySQL</li>
+</ul>
 
-  ## 🏆 Expériences académiques
+<h4>🖥️ Développeur informatique</h4>
+<strong>StreamVision – Paris</strong><br>
+📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
+<ul>
+  <li>Affichage dynamique JO 2024</li>
+  <li>Interface HTML/CSS/JS</li>
+  <li>Amazon AWS</li>
+</ul>
 
-  ### 💻 Développeur de site web et d’application  
-  **TiqTec – La Courneuve**  
-  📅 *12 mai 2025 – 04 juillet 2025* | 🎓 *Licence 3*  
-  - WordPress, Laragon  
-  - Kotlin (Android)  
-  - Python/Pygame (échecs 2D)  
-  - Testeur de jeu vidéo  
-  - PhpMyAdmin + MySQL  
+<h4>🎓 Stage d’observation</h4>
+<strong>École Maternelle Paul Langevin – Drancy</strong><br>
+📅 <em>Décembre 2017 (1 semaine)</em><br>
+<ul>
+  <li>Découverte de l’environnement informatique scolaire</li>
+</ul>
 
-  ### 🖥️ Développeur informatique  
-  **StreamVision – Paris**  
-  📅 *12 mai – 04 juillet 2023* | 🎓 *BTS*  
-  - Affichage dynamique JO 2024  
-  - Interface HTML/CSS/JS  
-  - Amazon AWS  
+    </td>
+    <td style="vertical-align: top; width: 50%;">
 
-  ### 🎓 Stage d’observation  
-  **École Maternelle Paul Langevin – Drancy**  
-  📅 *Décembre 2017 (1 semaine)*  
-  - Découverte de l’environnement informatique scolaire
+<h3>🛠️ Expériences professionnelles</h3>
 
-  </div>
+<h4>📦 Préparateur de commandes</h4>
+<strong>Carrefour SupplyChain – La Courneuve</strong><br>
+📅 <em>Juillet 2022 – Actuel</em> | 🧰 <em>Intérim</em><br>
+<ul>
+  <li>Préparation des commandes</li>
+  <li>Organisation des palettes</li>
+  <li>Procédures logistiques et sécurité</li>
+  <li>CACES obtenu en juillet 2022</li>
+</ul>
 
-  <div style="flex: 1;">
+    </td>
+  </tr>
+</table>
 
-  ## 🛠️ Expériences professionnelles
-
-  ### 📦 Préparateur de commandes  
-  **Carrefour SupplyChain – La Courneuve**  
-  📅 *Juillet 2022 – Actuel* | 🧰 *Intérim*  
-  - Préparation des commandes  
-  - Organisation des palettes  
-  - Procédures logistiques et sécurité  
-  - CACES obtenu en juillet 2022
-
-  </div>
 
 </div>
 
