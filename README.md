@@ -6,10 +6,6 @@
 📄 MON CV :  [Télécharger mon CV](https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y)
 
 
-Brevet      Bac        BTS        Licence        Master
-   ◉---------◉----------◉-----------◉-------------◉
-
-
 
 ## 📎 Réseaux & Contact
 
@@ -113,6 +109,9 @@ Brevet      Bac        BTS        Licence        Master
 
    <!-- Colonne droite : Professionnelles -->
    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+
+   Brevet      Bac        BTS        Licence        Master
+   ◉---------◉----------◉-----------◉-------------◉
 
  <h2>🛠️ Expériences professionnelles</h2>
 
