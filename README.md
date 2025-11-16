@@ -97,7 +97,6 @@
 > <ul>
 >   <li>Mise en place d’un affichage dynamique pour un hôtel lors des <strong>JO 2024</strong></li>
 >   <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
->   <li>Administration et gestion d’un compte entreprise sur <strong>Amazon AWS</strong></li>
   </ul>
 
 > <h3>🎓 Stage d’observation (3ème)</h3>
