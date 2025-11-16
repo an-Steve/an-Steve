@@ -94,8 +94,8 @@
 > - Administration d’un compte entreprise sur **Amazon AWS**
 
 > ### 🎓 Stage d’observation de 3ème  
-> **École Maternelle Paul Langevin – Drancy**
-> 📅 *Décembre 2017 (1 semaine)*  
+> **École Maternelle Paul Langevin – Drancy**  
+> 📅 *Décembre 2017 (1 semaine)*
 > - Découverte du fonctionnement d’un environnement informatique scolaire
 
 
