@@ -73,7 +73,7 @@
   </tr>
 </table>
 
- <table>
+<table>
    <tr>
     <!-- Colonne gauche : Académiques -->
    <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
@@ -107,7 +107,7 @@
    </td>
 
    <!-- Colonne droite : Professionnelles -->
-  <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+   <td style="vertical-align: top; width: 50%; padding-left: 20px;">
 
  <h2>🛠️ Expériences professionnelles</h2>
 
@@ -123,7 +123,8 @@
 
    </td>
    </tr>
- </table>
+</table>
+
 
 
 
