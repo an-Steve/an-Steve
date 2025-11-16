@@ -112,9 +112,14 @@
 
    ## 📚 Parcours académique
 
-Brevet                                                                                                                                                         BAC                                  
-   ◉---------◉----------◉-----------◉--------------◉------------------------◉ 
- 2018                    2021             2024                 2025                                                                        En cours
+## 📚 Parcours académique
+
+```
+Brevet      Bac STI2D           BTS SNIR            Licence ISEI              Master Informatique et Big Data  
+   ◉---------◉----------◉-----------◉-------------◉  
+ 2018         2021             2024                 2025                     En cours
+```
+
 
 
  <h2>🛠️ Expériences professionnelles</h2>
