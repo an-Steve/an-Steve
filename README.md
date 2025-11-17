@@ -1,7 +1,9 @@
 <table>
   <tr>
     <td>
-      <h1>Bonjour, je suis <span style="color:blue;">ANTON NELCON Steve</span></h1>
+# Bonjour, je suis ANTON NELCON Steve
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=2F80ED&center=false&vCenter=true&lines=Bienvenue+sur+mon+GitHub+!;Développeur+Informatique;Big+Data+%7C+IA)
       <p>
         🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
         📍 Basé à Paris, France<br>
