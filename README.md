@@ -1,17 +1,26 @@
 <table>
   <tr>
     <td>
+
+<!-- Animation en haut -->
+<p align="left">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60">
+</p>
+
 # Bonjour, je suis ANTON NELCON Steve
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=2F80ED&center=false&vCenter=true&lines=Bienvenue+sur+mon+GitHub+!;Développeur+Informatique;Big+Data+%7C+IA)
-      <p>
+
+  <p>
         🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
         📍 Basé à Paris, France<br>
         🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026<br>
         📄 MON CV : <a href="https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y" target="_blank">Télécharger mon CV</a>
       </p>
-    </td>
-    <td style="padding-left:20px; vertical-align:middle;">
+
+  </td>
+
+  <td style="padding-left:20px; vertical-align:middle;">
       <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88"
            alt="Photo de ANTON NELCON Steve"
            width="180" height="180"
@@ -19,6 +28,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
