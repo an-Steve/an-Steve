@@ -172,7 +172,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
  </table>
 
 <p align="center">
-  🎮 <a href="https://ton-username.github.io/MiniJeu" target="_blank">Cliquez ici pour jouer !</a>
+  🎮 <a href="[https://ton-username.github.io/MiniJeu](https://github.com/an-Steve/Jeu-Github.git)]" target="_blank">Cliquez ici pour jouer !</a>
 </p>
 
 
