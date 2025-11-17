@@ -157,11 +157,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 >   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
  </ul>
 
-
- 
-
 <h2>🤝 Bénévolat</h2>
-
 
 > <h3>🎤 Animateur</h3>
 > <strong>Diocèse de Saint Denis</strong><br>
@@ -175,6 +171,9 @@ des collèges     STI2D         SNIR        ISEI           IBD
    </tr>
  </table>
 
+<p align="center">
+  🎮 <a href="https://ton-username.github.io/MiniJeu" target="_blank">Cliquez ici pour jouer !</a>
+</p>
 
 
 
