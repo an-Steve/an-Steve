@@ -7,7 +7,7 @@
   <tr>
    <td>
 
-<h1><span style="color:#2F80ED;">Bonjour, je suis ANTON NELCON Steve</span></h1>
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve">
 
 
 <p>
