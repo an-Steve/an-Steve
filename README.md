@@ -5,8 +5,6 @@
 
 <table>
   <tr>
-
-    <!-- Colonne gauche : texte -->
    <td>
 
 # Bonjour, je suis ANTON NELCON Steve
