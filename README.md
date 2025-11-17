@@ -9,7 +9,10 @@
   </div>
 
   <div style="flex:0 0 auto; text-align:right;">
-    <img src="![1761869199246](https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88) " alt="Photo de ANTON NELCON Steve"
+  <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88" 
+     alt="Photo de ANTON NELCON Steve" 
+     width="180" height="180" style="border-radius:50%; border:2px solid #e0e0e0;">
+
          style="width:180px; height:180px; object-fit:cover; border-radius:50%; border:2px solid #e0e0e0;">
   </div>
 
