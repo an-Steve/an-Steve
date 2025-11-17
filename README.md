@@ -7,7 +7,8 @@
   <tr>
    <td>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve">
+<img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve&duration=0">
+
 
 
 <p>
