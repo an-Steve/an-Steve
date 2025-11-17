@@ -7,7 +7,8 @@
   <tr>
    <td>
 
-# Bonjour, je suis ANTON NELCON Steve
+<h1><span style="color:#2F80ED;">Bonjour, je suis ANTON NELCON Steve</span></h1>
+
 
 <p>
 🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
