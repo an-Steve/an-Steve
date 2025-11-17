@@ -1,6 +1,10 @@
 <!-- Animation centrée en haut -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF0000&center=true&vCenter=true&lines=Bienvenue+sur+mon+GitHub+!;Développeur+Informatique;Big+Data+%7C+IA">
+  <p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600">
+</p>
+
 </p>
 
 <table>
