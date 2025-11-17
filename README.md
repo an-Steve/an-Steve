@@ -1,22 +1,23 @@
-<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:16px; flex-wrap:wrap;">
+<table>
+  <tr>
+    <td>
+      <h1>Bonjour, je suis <span style="color:blue;">ANTON NELCON Steve</span></h1>
+      <p>
+        🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
+        📍 Basé à Paris, France<br>
+        🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026<br>
+        📄 MON CV : <a href="https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y" target="_blank">Télécharger mon CV</a>
+      </p>
+    </td>
+    <td style="padding-left:20px; vertical-align:middle;">
+      <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88"
+           alt="Photo de ANTON NELCON Steve"
+           width="180" height="180"
+           style="object-fit:cover; border-radius:50%; border:2px solid #e0e0e0;">
+    </td>
+  </tr>
+</table>
 
-  <div style="flex:1 1 420px; min-width:280px;">
-    <h1>Bonjour, je suis <span style="color:blue;">ANTON NELCON Steve</span></h1>
-    <p>🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
-    📍 Basé à Paris, France<br>
-    🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026<br>
-    📄 MON CV : <a href="https://media.licdn.com/dms/image/v2/D4E22AQEuUULsrw5PQg/feedshare-shrink_480/B4EZp0SrOKHoAY-/0/1762887645382?e=1764806400&v=beta&t=H0v-4mqRI0mAgLnokDDZ5oJ0cnIkX-lig9I6hpF-l8Y" target="_blank">Télécharger mon CV</a></p>
-  </div>
-
-  <div style="flex:0 0 auto; text-align:right;">
-  <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88" 
-     alt="Photo de ANTON NELCON Steve" 
-     width="180" height="180" style="border-radius:50%; border:2px solid #e0e0e0;">
-
-         style="width:180px; height:180px; object-fit:cover; border-radius:50%; border:2px solid #e0e0e0;">
-  </div>
-
-</div>
 
 
 
