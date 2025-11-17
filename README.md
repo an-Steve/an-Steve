@@ -151,7 +151,8 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
  
 
- <h2>🤝 Bénévolat</h2>
+<h2>🤝 <span style="background-color:#f0f0f0; padding:6px; border-radius:4px;">Bénévolat</span></h2>
+
 
 > <h3>🎤 Animateur</h3>
 > <strong>Diocèse de Saint Denis</strong><br>
