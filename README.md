@@ -172,7 +172,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
  </table>
 
 <p align="center">
-  🎮 <a href="https://an-Steve.github.io/Jeu-Github/" target="_blank">Cliquez ici pour jouer à mon jeu !</a>
+  🎮 <a href="https://an-Steve.github.io/Jeu Github.html/" target="_blank">Cliquez ici pour jouer à mon jeu !</a>
 </p>
 
 
