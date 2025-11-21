@@ -173,8 +173,6 @@ des collèges     STI2D         SNIR        ISEI           IBD
  </table>
 
 <p align="center">
-  ![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=an-Steve&theme=tokyonight)
-
   Merci!
 </p>
 
