@@ -176,25 +176,6 @@ des collèges     STI2D         SNIR        ISEI           IBD
   Merci!
 </p>
 
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-.floating {
-  display: inline-block;
-  animation: float 2.5s ease-in-out infinite;
-  font-size: 1.5rem;
-  font-weight: bold;
-  color: #4f9cf4;
-}
-</style>
-
-<p align="center">
-  <span class="floating">HELLO WORLD! WELCOME TO MY GITHUB PROFILE.</span>
-</p>
-
 
 
 
