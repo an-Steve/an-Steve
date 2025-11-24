@@ -16,7 +16,7 @@
 📍 Basé à Paris, France<br>
 🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026<br>
 <p>
-📄 <a href="https://github.com/user-attachments/assets/2a15c1c5-7b65-49b4-a1d5-a1f958266ddb" target="_blank">Télécharger mon CV</a><br>
+📄 MON CV  <a href="https://github.com/user-attachments/assets/2a15c1c5-7b65-49b4-a1d5-a1f958266ddb" target="_blank">Télécharger mon CV</a><br>
 🔗 Mon portefolio : <a href="https://an-steve.github.io/Portefolio-de-Steve/" target="_blank">Voir mon portefolio</a>
 </p>
 
