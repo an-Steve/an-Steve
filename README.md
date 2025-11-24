@@ -15,7 +15,7 @@
 🎓 Étudiant en Master Informatique, spécialisé en Big Data à l’Université Paris 8<br>
 📍 Basé à Paris, France<br>
 🚀 À la recherche d’un stage de 3 à 6 mois à partir d’avril 2026<br>
-📄 MON CV : <a href= "![1763929140244](https://github.com/user-attachments/assets/2a15c1c5-7b65-49b4-a1d5-a1f958266ddb)"
+[📄 Voir mon CV](https://github.com/user-attachments/assets/2a15c1c5-7b65-49b4-a1d5-a1f958266ddb)
 
 "
 " target="_blank">Télécharger mon CV</a><br>
