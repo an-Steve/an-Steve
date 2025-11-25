@@ -178,19 +178,6 @@ des collèges     STI2D         SNIR        ISEI           IBD
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F9CF4&center=true&vCenter=true&width=600&lines=Merci+d’avoir+exploré+mon+GitHub+🚀" alt="Merci d’avoir exploré mon univers GitHub 🚀" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=an-steve&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub de Steve" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=an-steve&theme=tokyonight&hide_border=true" alt="GitHub Streak de Steve" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=an-steve&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
-
 
 
 
