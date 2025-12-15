@@ -19,7 +19,7 @@
 📄 MON CV :
 <a href="https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1" target="_blank">
   Télécharger mon CV
-</a><br>
+</a>
 
 🔗 Mon portfolio :
 <a href="https://an-steve.github.io/Portefolio-de-Steve/" target="_blank">
