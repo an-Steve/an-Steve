@@ -9,25 +9,13 @@
    <td>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve">
+🎓 **Étudiant en Master Informatique**, spécialisé en **Big Data & IA** à l’Université Paris 8  
+📍 Basé à **Paris, France**  
+🚀 À la recherche d’un **stage de 3 mois** à partir d’**avril 2026**
 
+📄 **[Télécharger mon CV](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1)**  
+🔗 **[Voir mon portfolio](https://an-steve.github.io/Portefolio-de-Steve/)**
 
-<p>
-  Étudiant en <strong>Master Informatique</strong>, spécialisation <strong>Big Data</strong> à l’Université Paris 8.<br><br>
-
-  Localisation : <strong>Paris, France</strong><br><br>
-
-  Actuellement à la recherche d’un <strong>stage de 3 mois</strong> à partir d’<strong>avril 2026</strong>.<br><br>
-
-  <strong>CV :</strong><br>
-  <a href="https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1" target="_blank">
-    Télécharger mon CV
-  </a><br><br>
-
-  <strong>Portfolio :</strong><br>
-  <a href="https://an-steve.github.io/Portefolio-de-Steve/" target="_blank">
-    Accéder à mon portfolio
-  </a>
-</p>
 
 
 
