@@ -110,7 +110,7 @@
     <!-- Colonne gauche : Académiques -->
    <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
 
- <h2> ## → Expériences académiques</h2>
+ <h2> → Expériences académiques</h2>
 
 > <h3><u>• Développeur de site web et mobile</u></h3>
 > <strong>TiqTec – La Courneuve</strong><br>
@@ -140,7 +140,7 @@
    <!-- Colonne droite : Professionnelles -->
    <td style="vertical-align: top; width: 50%; padding-left: 20px;">
 
-   ## 📚 Parcours académique
+   ## → Parcours académique
 
 
 ```
@@ -152,7 +152,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
 
 
- <h2>🛠️ Expériences professionnelles</h2>
+ <h2> → Expériences professionnelles</h2>
 
 > <h3><span style="text-decoration: underline;">• Préparateur de commandes </span></h3>
 > <strong>Carrefour SupplyChain – La Courneuve</strong><br>
@@ -164,7 +164,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 >   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
  </ul>
 
-<h2>🤝 Bénévolat</h2>
+<h2> → Bénévolat</h2>
 
 > <h3><span style="text-decoration: underline;">• Animateur</span></h3>
 > <strong>Diocèse de Saint Denis</strong><br>
