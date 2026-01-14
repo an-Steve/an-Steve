@@ -110,7 +110,7 @@
     <!-- Colonne gauche : Académiques -->
    <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
 
- <h2>🏆 Expériences académiques</h2>
+ <h2> ## → Expériences académiques</h2>
 
 > <h3><u>• Développeur de site web et mobile</u></h3>
 > <strong>TiqTec – La Courneuve</strong><br>
