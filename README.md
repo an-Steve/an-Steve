@@ -15,7 +15,6 @@
 🚀 À la recherche d’un **stage de 3 mois** à partir d’**avril 2026**
 
 📍 Basé à **Paris, Île-de-France**  
-📧 antonsteve05@gmail.com | 📱 06 52 04 59 92  
 
 [![📄 CV](https://img.shields.io/badge/Télécharger%20mon%20CV-007ACC?style=for-the-badge&logo=adobe&logoColor=white&color=4A90E2&labelColor=2C3E50)](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1) 
 &nbsp;&nbsp;
