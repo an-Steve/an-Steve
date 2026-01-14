@@ -118,7 +118,7 @@
 
  <h2>🏆 Expériences académiques</h2>
 
-> <h3>💻 Développeur de site web et d’application</h3>
+> <h3>• Développeur de site web et d’application</h3>
 > <strong>TiqTec – La Courneuve</strong><br>
 > 📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
 > <ul>
@@ -129,7 +129,7 @@
 >   <li>Gestion et administration de bases de données via <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
   </ul>
 
-> <h3>🖥️ Développeur informatique</h3>
+> <h3>• Développeur informatique</h3>
 > <strong>StreamVision – Paris</strong><br>
 > 📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
 > <ul>
@@ -137,7 +137,7 @@
 >   <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
   </ul>
 
-> <h3>🎓 Stage d’observation (3ème)</h3>
+> <h3>• Stage d'observation (3ème)</h3>
 > <strong>École Maternelle Paul Langevin – Drancy</strong><br>
 > 📅 <em>Décembre 2017 – 1 semaine</em><br>
 
@@ -160,9 +160,9 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
  <h2>🛠️ Expériences professionnelles</h2>
 
-> <h3>📦 Préparateur de commandes</h3>
+> <h3>• Préparateur de commandes</h3>
 > <strong>Carrefour SupplyChain – La Courneuve</strong><br>
-> 📅 <em>Juillet 2022 – Actuel</em> | 🧰 <em>Intérim</em><br>
+> 📅 <em>Juillet 2022 – Actuel</em> |  <em>Intérim</em><br>
 > <ul>
 >   <li>Préparation et organisation des commandes destinées aux magasins</li>
 >   <li>Construction et agencement des palettes selon les procédures établies</li>
@@ -172,7 +172,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
 <h2>🤝 Bénévolat</h2>
 
-> <h3>🎤 Animateur</h3>
+> <h3>•  Animateur</h3>
 > <strong>Diocèse de Saint Denis</strong><br>
 > 📅 <em>Septembre 2024 – Actuel</em><br>
 > <ul>
