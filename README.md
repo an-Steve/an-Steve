@@ -118,7 +118,7 @@
 
  <h2>🏆 Expériences académiques</h2>
 
-> <span style="text-decoration: underline;">• Développeur de site web et mobile</span></h3>
+> <h3><span style="text-decoration: underline;">• Développeur de site web et mobile</span></h3>
 > <strong>TiqTec – La Courneuve</strong><br>
 > 📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
 > <ul>
