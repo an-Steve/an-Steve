@@ -112,77 +112,77 @@
 
 
 <table>
-   <tr>
-    <!-- Colonne gauche : Académiques -->
-   <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
+  <tr>
+    <!-- Colonne gauche : Expériences académiques -->
+    <td style="vertical-align: top; width: 50%; padding-right: 25px; border-right: 2px solid #cccccc;">
 
- <h2>🏆 Expériences académiques</h2>
+      <h2>Expériences académiques</h2>
 
-> <h3>💻 Développeur de site web et d’application</h3>
-> <strong>TiqTec – La Courneuve</strong><br>
-> 📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
-> <ul>
->   <li>Conception d’un site vitrine avec <strong>WordPress</strong> et <strong>Laragon</strong></li>
->   <li>Développement d’une application Android en <strong>Kotlin</strong></li>
->   <li>Réalisation d’un jeu d’échecs 2D avec <strong>Python</strong> et <strong>Pygame</strong></li>
->   <li>Participation aux tests de fonctionnalités en tant que <strong>testeur de jeu vidéo</strong></li>
->   <li>Gestion et administration de bases de données via <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
-  </ul>
+      <h3>Développeur de site web et d’application</h3>
+      <strong>TiqTec – La Courneuve</strong><br>
+      <em>12 mai 2025 – 04 juillet 2025</em> | <em>Licence 3</em>
 
-> <h3>🖥️ Développeur informatique</h3>
-> <strong>StreamVision – Paris</strong><br>
-> 📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
-> <ul>
->   <li>Mise en place d’un affichage dynamique pour un hôtel lors des <strong>JO 2024</strong></li>
->   <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
-  </ul>
+      <ul>
+        <li>Conception d’un site vitrine avec <strong>WordPress</strong> et <strong>Laragon</strong></li>
+        <li>Développement d’une application Android en <strong>Kotlin</strong></li>
+        <li>Réalisation d’un jeu d’échecs 2D avec <strong>Python</strong> et <strong>Pygame</strong></li>
+        <li>Participation aux tests fonctionnels en tant que testeur</li>
+        <li>Gestion et administration de bases de données avec <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
+      </ul>
 
-> <h3>🎓 Stage d’observation (3ème)</h3>
-> <strong>École Maternelle Paul Langevin – Drancy</strong><br>
-> 📅 <em>Décembre 2017 – 1 semaine</em><br>
+      <h3>Développeur informatique</h3>
+      <strong>StreamVision – Paris</strong><br>
+      <em>12 mai – 04 juillet 2023</em> | <em>BTS</em>
 
-   </td>
+      <ul>
+        <li>Mise en place d’un système d’affichage dynamique pour un hôtel (JO 2024)</li>
+        <li>Développement d’interfaces interactives en <strong>HTML, CSS et JavaScript</strong></li>
+      </ul>
 
-   <!-- Colonne droite : Professionnelles -->
-   <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+      <h3>Stage d’observation (classe de 3ème)</h3>
+      <strong>École Maternelle Paul Langevin – Drancy</strong><br>
+      <em>Décembre 2017 – 1 semaine</em>
 
-   ## 📚 Parcours académique
+    </td>
 
+    <!-- Colonne droite : Parcours & expériences professionnelles -->
+    <td style="vertical-align: top; width: 50%; padding-left: 25px;">
 
-```
-  Brevet          Bac          BTS        Licence        Master 
-des collèges     STI2D         SNIR        ISEI           IBD
-    ◉--------------◉-----------◉-----------◉-------------◉
-   2018           2021         2024         2025        En cours
-```
+      <h2>Parcours académique</h2>
 
+<pre>
+Brevet     Bac STI2D     BTS SNIR     Licence ISEI     Master IBD
+ 2018        2021         2024           2025        En cours
+</pre>
 
+      <h2>Expériences professionnelles</h2>
 
- <h2>🛠️ Expériences professionnelles</h2>
+      <h3>Préparateur de commandes</h3>
+      <strong>Carrefour SupplyChain – La Courneuve</strong><br>
+      <em>Juillet 2022 – Actuel</em> | <em>Intérim</em>
 
-> <h3>📦 Préparateur de commandes</h3>
-> <strong>Carrefour SupplyChain – La Courneuve</strong><br>
-> 📅 <em>Juillet 2022 – Actuel</em> | 🧰 <em>Intérim</em><br>
-> <ul>
->   <li>Préparation et organisation des commandes destinées aux magasins</li>
->   <li>Construction et agencement des palettes selon les procédures établies</li>
->   <li>Application des règles logistiques et de sécurité</li>
->   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
- </ul>
+      <ul>
+        <li>Préparation et organisation des commandes destinées aux magasins</li>
+        <li>Construction et agencement des palettes selon les procédures</li>
+        <li>Application des règles de logistique et de sécurité</li>
+        <li>Obtention du <strong>CACES</strong> (juillet 2022)</li>
+      </ul>
 
-<h2>🤝 Bénévolat</h2>
+      <h2>Bénévolat</h2>
 
-> <h3>🎤 Animateur</h3>
-> <strong>Diocèse de Saint Denis</strong><br>
-> 📅 <em>Septembre 2024 – Actuel</em><br>
-> <ul>
->   <li>Animation et encadrement d’activités pour enfants</li>
->   <li>Organisation d’événements</li>
-> </ul>
+      <h3>Animateur</h3>
+      <strong>Diocèse de Saint-Denis</strong><br>
+      <em>Septembre 2024 – Actuel</em>
 
-   </td>
-   </tr>
- </table>
+      <ul>
+        <li>Animation et encadrement d’activités pour enfants</li>
+        <li>Organisation et gestion d’événements</li>
+      </ul>
+
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F9CF4&center=true&vCenter=true&width=600&lines=Merci+d’avoir+exploré+mon+GitHub+🚀" alt="Merci d’avoir exploré mon univers GitHub 🚀" />
