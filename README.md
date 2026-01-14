@@ -9,6 +9,7 @@
    <td>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve">
+
 🎓 **Étudiant en Master Informatique**, spécialisé en **Big Data & IA** à l’Université Paris 8  
 📍 Basé à **Paris, France**  
 🚀 À la recherche d’un **stage de 3 mois** à partir d’**avril 2026**
