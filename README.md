@@ -129,7 +129,7 @@
 >   <li>Gestion et administration de bases de données via <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
   </ul>
 
-> h3><span style="text-decoration: underline;">• Développeur informatique </span></h3>
+> <h3><span style="text-decoration: underline;">• Développeur informatique </span></h3>
 > <strong>StreamVision – Paris</strong><br>
 > 📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
 > <ul>
@@ -137,7 +137,7 @@
 >   <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
   </ul>
 
-> h3><span style="text-decoration: underline;">• Stage d'observations (3ème)</span></h3>
+> <h3><span style="text-decoration: underline;">• Stage d'observations (3ème)</span></h3>
 > <strong>École Maternelle Paul Langevin – Drancy</strong><br>
 > 📅 <em>Décembre 2017 – 1 semaine</em><br>
 
@@ -160,7 +160,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
  <h2>🛠️ Expériences professionnelles</h2>
 
-> h3><span style="text-decoration: underline;">• Préparateur de commandes </span></h3>
+> <h3><span style="text-decoration: underline;">• Préparateur de commandes </span></h3>
 > <strong>Carrefour SupplyChain – La Courneuve</strong><br>
 > 📅 <em>Juillet 2022 – Actuel</em> |  <em>Intérim</em><br>
 > <ul>
@@ -172,7 +172,7 @@ des collèges     STI2D         SNIR        ISEI           IBD
 
 <h2>🤝 Bénévolat</h2>
 
-> h3><span style="text-decoration: underline;">• Animateur</span></h3>
+> <h3><span style="text-decoration: underline;">• Animateur</span></h3>
 > <strong>Diocèse de Saint Denis</strong><br>
 > 📅 <em>Septembre 2024 – Actuel</em><br>
 > <ul>
