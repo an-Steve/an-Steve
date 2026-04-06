@@ -1,188 +1,198 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=FF0000&center=true&vCenter=true&lines=Bienvenue+sur+mon+GitHub+!;Développeur+Informatique;Big+Data+%7C+IA">
-</p>
+<div align="center">
 
-</p>
+<!-- HEADER ANIMÉ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ANTON%20NELCON%20Steve&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Master%20Informatique%20·%20Big%20Data%20%26%20Intelligence%20Artificielle&descAlignY=58&descSize=16&animation=fadeIn" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Étudiant+Master+IBD+·+Paris+%7C+Disponible+avril+2026)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<br/>
 
 <table>
-  <tr>
-   <td>
+<tr>
+<td width="60%">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&color=2F80ED&center=true&vCenter=true&lines=ANTON+NELCON+Steve">
+### 👤 Qui suis-je ?
 
-🎓 **Étudiant en Master Informatique**, spécialisé en **Big Data & IA**
+> Passionné par la data, l'IA et le développement logiciel, je construis des solutions concrètes à la croisée des mondes **Big Data**, **machine learning** et **développement full-stack**.
 
-🚀 À la recherche d’un **stage de 3 mois** à partir d’**avril 2026**
+🎓 **Master IBD** — *Informatique Big Data & IA*
+🚀 **Stage recherché** — 3 mois · à partir d'**avril 2026**
+📍 **Paris, Île-de-France**
+🕐 **Disponible immédiatement**
 
-📍 Basé à **Paris, Île-de-France**  
+<br/>
 
-[![📄 CV](https://img.shields.io/badge/Télécharger%20mon%20CV-007ACC?style=for-the-badge&logo=adobe&logoColor=white&color=4A90E2&labelColor=2C3E50)](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1) 
-&nbsp;&nbsp;
-[![🔗 Portfolio](https://img.shields.io/badge/Voir%20mon%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&color=E67E22&labelColor=2C3E50)](https://an-steve.github.io/Portefolio-de-Steve/)
+[![CV](https://img.shields.io/badge/─────%20Télécharger%20le%20CV%20─────-0f0c29?style=for-the-badge&logo=adobeacrobatreader&logoColor=A78BFA)](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1)
+[![Portfolio](https://img.shields.io/badge/─────%20Voir%20le%20Portfolio%20─────-302b63?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC)](https://an-steve.github.io/Portefolio-de-Steve/)
 
+</td>
+<td width="40%" align="center">
 
+<img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88"
+     alt="Steve Anton Nelcon"
+     width="160" height="160"
+     style="border-radius:50%;"/>
 
+<br/><br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
+[![Gmail](https://img.shields.io/badge/antonsteve05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
-  </td>
-<!-- Colonne droite : photo -->
-    <td style="padding-left:20px; vertical-align:middle;">
-      <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88"
-           alt="Photo de ANTON NELCON Steve"
-           width="180" height="180"
-           style="object-fit:cover; border-radius:50%; border:2px solid #e0e0e0;">
-    </td>
-
-  </tr>
+</td>
+</tr>
 </table>
 
-## 📎 Réseaux & Contact
+---
 
-<a href="https://www.linkedin.com/in/ansteve/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:antonsteve05@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-</a>
+<br/>
 
-## 💻 Compétences en programmation
+## 🛠️ Stack Technique
 
-<table>
-  <tr>
-    <td>🌐 <b>Développement Web</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-    </td>
-    <td>📱 <b>Développement d’application</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
-    </td>
-    <td>🤖 <b>Intelligence Artificielle</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🗄️ <b>Bases de Données</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-    </td>
-    <td>🌍 <b>Réseaux & Routage</b><br>
-      <img src="https://img.icons8.com/color/48/network.png" width="40"/>
-    </td>
-    <td>⚙️ <b>Programmation système</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🔌 <b>Matériels</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>
-    </td>
-    <td>📰 <b>CMS</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40"/>
-    </td>
-    <td>💻 <b>Systèmes d’exploitation</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-    </td>
-  </tr>
-  <tr>
-    <td>🛠️ <b>IDE</b><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
+<div align="center">
 
+**🌐 Développement Web & Mobile**
 
-<table>
-   <tr>
-    <!-- Colonne gauche : Académiques -->
-   <td style="vertical-align: top; width: 50%; padding-right: 20px; border-right: 2px solid #ccc;">
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
- <h2> → Expériences académiques</h2>
+**🤖 Intelligence Artificielle & Data**
 
-> <h3><u>• Développeur de site web et mobile</u></h3>
-> <strong>TiqTec – La Courneuve</strong><br>
-> 📅 <em>12 mai 2025 – 04 juillet 2025</em> | 🎓 <em>Licence 3</em><br>
-> <ul>
->   <li>Conception d’un site vitrine avec <strong>WordPress</strong> et <strong>Laragon</strong></li>
->   <li>Développement d’une application Android en <strong>Kotlin</strong></li>
->   <li>Réalisation d’un jeu d’échecs 2D avec <strong>Python</strong> et <strong>Pygame</strong></li>
->   <li>Participation aux tests de fonctionnalités en tant que <strong>testeur de jeu vidéo</strong></li>
->   <li>Gestion et administration de bases de données via <strong>PhpMyAdmin</strong> et <strong>MySQL</strong></li>
-  </ul>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-> <h3><span style="text-decoration: underline;">• Développeur informatique </span></h3>
-> <strong>StreamVision – Paris</strong><br>
-> 📅 <em>12 mai – 04 juillet 2023</em> | 🎓 <em>BTS</em><br>
-> <ul>
->   <li>Mise en place d’un affichage dynamique pour un hôtel lors des <strong>JO 2024</strong></li>
->   <li>Développement d’interfaces interactives (<strong>HTML, CSS, JavaScript</strong>)</li>
-  </ul>
+**🗄️ Bases de données & Systèmes**
 
-> <h3><span style="text-decoration: underline;">• Stage d'observations (3ème)</span></h3>
-> <strong>École Maternelle Paul Langevin – Drancy</strong><br>
-> 📅 <em>Décembre 2017 – 1 semaine</em><br>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-   </td>
+**⚙️ Outils & Matériels**
 
-   <!-- Colonne droite : Professionnelles -->
-   <td style="vertical-align: top; width: 50%; padding-left: 20px;">
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-   ## → Parcours académique
+</div>
 
+---
+
+<br/>
+
+## 📈 Parcours
+
+<div align="center">
 
 ```
-  Brevet          Bac          BTS        Licence        Master 
-des collèges     STI2D         SNIR        ISEI           IBD
-    ◉--------------◉-----------◉-----------◉-------------◉
-   2018           2021         2024         2025        En cours
+  2018         2021         2024         2025        En cours
+   ◉────────────◉────────────◉────────────◉─────────────◉
+Brevet des   Bac STI2D    BTS SNIR    Licence ISEI   Master IBD
+  collèges
 ```
 
+</div>
 
+---
 
- <h2> → Expériences professionnelles</h2>
+<br/>
 
-> <h3><span style="text-decoration: underline;">• Préparateur de commandes </span></h3>
-> <strong>Carrefour SupplyChain – La Courneuve</strong><br>
-> 📅 <em>Juillet 2022 – Actuel</em> |  <em>Intérim</em><br>
-> <ul>
->   <li>Préparation et organisation des commandes destinées aux magasins</li>
->   <li>Construction et agencement des palettes selon les procédures établies</li>
->   <li>Application des règles logistiques et de sécurité</li>
->   <li>Obtention du <strong>CACES</strong> en <em>juillet 2022</em></li>
- </ul>
+## 💼 Expériences
 
-<h2> → Bénévolat</h2>
+<details>
+<summary><b>🎓 Expériences Académiques</b></summary>
 
-> <h3><span style="text-decoration: underline;">• Animateur</span></h3>
-> <strong>Diocèse de Saint Denis</strong><br>
-> 📅 <em>Septembre 2024 – Actuel</em><br>
-> <ul>
->   <li>Animation et encadrement d’activités pour enfants</li>
->   <li>Organisation d’événements</li>
-> </ul>
+<br/>
 
-   </td>
-   </tr>
- </table>
+### 🔵 Développeur Web & Mobile — TiqTec, La Courneuve
+📅 *Mai – Juillet 2025* · Licence 3
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F9CF4&center=true&vCenter=true&width=600&lines=Merci+d’avoir+exploré+mon+GitHub+🚀" alt="Merci d’avoir exploré mon univers GitHub 🚀" />
-</p>
+- Conception d'un **site vitrine** avec WordPress & Laragon
+- Développement d'une **app Android** en Kotlin
+- Réalisation d'un **jeu d'échecs 2D** avec Python & Pygame
+- Tests fonctionnels en tant que **testeur QA**
+- Administration de bases de données via **PhpMyAdmin / MySQL**
 
+---
 
+### 🟣 Développeur Informatique — StreamVision, Paris
+📅 *Mai – Juillet 2023* · BTS
 
+- Mise en place d'un **affichage dynamique** pour un hôtel durant les **JO Paris 2024**
+- Développement d'interfaces interactives en **HTML, CSS, JavaScript**
 
+---
 
+### 🟢 Stage d'Observation 3ème — École Maternelle Paul Langevin, Drancy
+📅 *Décembre 2017 · 1 semaine*
+
+</details>
+
+<details>
+<summary><b>💼 Expériences Professionnelles & Bénévolat</b></summary>
+
+<br/>
+
+### 📦 Préparateur de Commandes — Carrefour SupplyChain, La Courneuve
+📅 *Juillet 2022 – Actuel* · Intérim
+
+- Préparation et organisation des commandes magasins
+- Construction de palettes selon procédures logistiques
+- Application des règles de sécurité entrepôt
+- Obtention du **CACES** · *Juillet 2022*
+
+---
+
+### 🙏 Animateur Bénévole — Diocèse de Saint Denis
+📅 *Septembre 2024 – Actuel*
+
+- Animation et encadrement d'activités pour enfants
+- Organisation d'événements paroissiaux
+
+</details>
+
+---
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7DD3FC&text_color=c9d1d9&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FB923C&currStreakLabel=7DD3FC)
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=22&fontColor=A78BFA&animation=twinkling" />
+
+</div>
