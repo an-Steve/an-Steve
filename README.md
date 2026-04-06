@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=ANTON%20NELCON%20Steve&fontSize=46&fontColor=e2d9f3&fontAlignY=40&desc=Master%20Informatique%20·%20Big%20Data%20%26%20Intelligence%20Artificielle&descAlignY=62&descSize=15&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&duration=3500&pause=1200&color=e2d9f3&background=00000000&center=true&vCenter=true&width=750&lines=ANTON+NELCON+Steve)](https://git.io/typing-svg)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2500&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&width=650&lines=Master+Informatique+·+Big+Data+%26+Intelligence+Artificielle)](https://git.io/typing-svg)
 
 </div>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=🎓+Master+IBD+·+Université+Paris+8;🤖+Big+Data+%7C+Machine+Learning+%7C+Deep+Learning;🚀+Stage+de+3+mois+recherché+·+Disponible+dès+avril+2026;📍+Paris%2C+Île-de-France)](https://git.io/typing-svg)
-
-</div>
 
 <br/>
 
@@ -122,13 +122,13 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 | Projet | Description | Stack | Lien |
 |--------|-------------|-------|------|
-| 🌍 **Analyse Espérance de Vie** | Données de 193 pays (2000–2015) · corrélations socio-économiques & santé | `Tableau` `Excel` | [GitHub](https://github.com/an-Steve/-Analyse-Mondiale-de-l-Esperance-de-Vie-et-des-Maladies) |
-| 📈 **Prédiction Natalité ML** | Random Forest + K-Means · 187 pays · prédictions 2021–2030 | `Python` `scikit-learn` `Pandas` | [GitHub](https://github.com/an-Steve/Natality-IA) |
-| 🎮 **Jeu Mario 2D/3D** | Jeu arcade Python · collisions, audio, mode sombre, double langue | `Python` `Ursina` | [GitHub](https://github.com/an-Steve/Jeu-d-arcade-Mario-2D-3D) |
-| 🛍️ **E-Commerce Parfums** | Site e-commerce responsive et moderne | `HTML` `CSS` `JS` `PHP` | [GitHub](https://github.com/an-Steve/Site-de-parfum) |
-| ✈️ **App Réservation de Vols** | App Android · recherche de vols par destination et date | `Kotlin` `Android Studio` | [GitHub](https://github.com/an-Steve/Application-Android) |
-| 🌦️ **Météo Temps Réel** | App météo mondiale via API · entièrement déployée en ligne | `API` `HTML` `CSS` `JS` | [Démo](https://an-steve.github.io/Meteo/) · [GitHub](https://github.com/an-Steve/Meteo/tree/main) |
-| 🔐 **Auth Sécurisé** | Formulaire connexion/inscription · sessions · i18n · mode sombre | `PHP` `MySQL` `SQL` | [Démo](https://an-steve.github.io/Formulaire-dauthenfication-/) |
+| **Analyse Espérance de Vie** | Données de 193 pays (2000–2015) · corrélations socio-économiques & santé | `Tableau` `Excel` | [GitHub](https://github.com/an-Steve/-Analyse-Mondiale-de-l-Esperance-de-Vie-et-des-Maladies) |
+| **Prédiction Natalité ML** | Random Forest + K-Means · 187 pays · prédictions 2021–2030 | `Python` `scikit-learn` `Pandas` | [GitHub](https://github.com/an-Steve/Natality-IA) |
+| **Jeu Mario 2D/3D** | Jeu arcade Python · collisions, audio, mode sombre, double langue | `Python` `Ursina` | [GitHub](https://github.com/an-Steve/Jeu-d-arcade-Mario-2D-3D) |
+| **E-Commerce Parfums** | Site e-commerce responsive et moderne | `HTML` `CSS` `JS` `PHP` | [GitHub](https://github.com/an-Steve/Site-de-parfum) |
+| **App Réservation de Vols** | App Android · recherche de vols par destination et date | `Kotlin` `Android Studio` | [GitHub](https://github.com/an-Steve/Application-Android) |
+| **Météo Temps Réel** | App météo mondiale via API · entièrement déployée en ligne | `API` `HTML` `CSS` `JS` | [Démo](https://an-steve.github.io/Meteo/) · [GitHub](https://github.com/an-Steve/Meteo/tree/main) |
+| **Auth Sécurisé** | Formulaire connexion/inscription · sessions · i18n · mode sombre | `PHP` `MySQL` `SQL` | [Démo](https://an-steve.github.io/Formulaire-dauthenfication-/) |
 
 </div>
 
@@ -192,7 +192,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ## Expériences
 
 <details open>
-<summary><b>Stages Académiques</b></summary>
+<summary><img src="https://img.shields.io/badge/Stages%20Académiques-7c3aed?style=for-the-badge&logoColor=white" /></summary>
 
 <br/>
 
@@ -214,7 +214,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 </details>
 
 <details>
-<summary><b>Expérience Professionnelle & Bénévolat</b></summary>
+<summary><img src="https://img.shields.io/badge/Expérience%20Professionnelle%20%26%20Bénévolat-059669?style=for-the-badge&logoColor=white" /></summary>
 
 <br/>
 
@@ -245,7 +245,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
 &nbsp;
-![Repos](https://img.shields.io/badge/Projets%20réalisés-8-A78BFA?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projets%20réalisés-51-A78BFA?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
 
@@ -279,6 +279,16 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=130&section=footer&text=Merci%20de%20votre%20visite%20!%20🚀&fontSize=24&fontColor=A78BFA&animation=twinkling&fontAlignY=55" />
+<br/>
+
+---
+
+*Merci d'avoir parcouru mon profil — n'hésitez pas à me contacter !*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
+
+<br/>
 
 </div>
