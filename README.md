@@ -208,7 +208,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 💼 Expériences
+##  Expériences
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Stages%20Académiques-7c3aed?style=for-the-badge&logoColor=white" /></summary>
@@ -234,7 +234,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-`▽`
+
 
 </details>
 
@@ -262,13 +262,13 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-`▽`
+
 
 </details>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -282,16 +282,29 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=7&margin-w=15&background=0d0221" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br/>
+
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
 &nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
+###  Activity & Streak
+  
 ![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8892b0)
 
 </div>
@@ -302,13 +315,15 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 </div>
 
----
-
 <br/>
 
 <div align="center">
 
-<br/>
+###  Mes contributions en 3D
+  
+![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
+
+</div>
 
 ---
 
