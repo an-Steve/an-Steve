@@ -234,12 +234,10 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-
-
 </details>
 
 <details>
-<summary><img src="https://img.shields.io/badge/Expérience%20Professionnelle%20%26%20Bénévolat-059669?style=for-the-badge&logoColor=white" /></summary>
+<summary><img src="https://img.shields.io/badge/Expérience%20Professionnelle-059669?style=for-the-badge&logoColor=white" /></summary>
 
 <br/>
 
@@ -251,10 +249,17 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 * Application rigoureuse des règles de sécurité en entrepôt
 * **Certification :** Obtention du **CACES R489** (Juillet 2022)
 
----
+<br/>
+
+</details>
+
+<details>
+<summary><img src="https://img.shields.io/badge/Bénévolat-dc2626?style=for-the-badge&logoColor=white" /></summary>
+
+<br/>
 
 ### **Animateur** — Diocèse de Saint Denis
-*Sep. 2024 – Actuel • Bénévolat*
+*Sep. 2024 – Actuel*
 
 * Animation et encadrement d'activités pour enfants
 * Organisation d'événements paroissiaux
@@ -262,9 +267,9 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-
-
 </details>
+
+---
 
 ---
 ## 📊 GitHub Stats
