@@ -29,7 +29,7 @@
 <tr>
 <td width="55%" valign="top">
 
-## 👋 Bienvenue sur mon GitHub
+## Bienvenue sur mon GitHub
 
 Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA** à l'Université Paris 8. Passionné par les données, les algorithmes d'apprentissage et le développement logiciel, je construis des solutions à la croisée du **Big Data**, du **Machine Learning** et du **développement full-stack**.
 
@@ -62,7 +62,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## ⭐ Projet Coup de Cœur
+## Projet Coup de Cœur
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 🗂️ Autres Projets
+## Autres Projets
 
 <div align="center">
 
@@ -136,11 +136,11 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 🛠️ Stack Technique
+## Stack Technique
 
 <div align="center">
 
-### 🌐 Web & Mobile
+### Web & Mobile
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -149,7 +149,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🤖 Data Science & IA
+### Data Science & IA
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -157,7 +157,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 🗄️ Bases de données & Systèmes
+### Bases de données & Systèmes
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -171,7 +171,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 📈 Parcours Académique
+## Parcours Académique
 
 <div align="center">
 
@@ -189,35 +189,49 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 💼 Expériences
+## Expériences
 
 <details open>
-<summary><b>🎓 Stages Académiques</b></summary>
+<summary><b>Stages Académiques</b></summary>
 
 <br/>
 
-**🔵 Développeur Web & Mobile — TiqTec, La Courneuve** · *Mai – Juil. 2025* · Licence 3
+**Développeur Web & Mobile — TiqTec, La Courneuve** &nbsp;·&nbsp; *Mai – Juil. 2025* &nbsp;·&nbsp; Licence 3
 
-- Site vitrine WordPress + Laragon · App Android Kotlin · Jeu d'échecs 2D Python/Pygame · Tests QA · Admin MySQL/PhpMyAdmin
+→ Conception d'un site vitrine avec **WordPress** & **Laragon**
+→ Développement d'une application Android en **Kotlin**
+→ Réalisation d'un jeu d'échecs 2D avec **Python** & **Pygame**
+→ Tests fonctionnels (QA) et gestion de base de données **MySQL** / **PhpMyAdmin**
 
-**🟣 Développeur Informatique — StreamVision, Paris** · *Mai – Juil. 2023* · BTS
+---
 
-- Affichage dynamique hôtel pour **JO Paris 2024** · Interfaces interactives HTML/CSS/JS · Compte à rebours animé JavaScript
+**Développeur Informatique — StreamVision, Paris** &nbsp;·&nbsp; *Mai – Juil. 2023* &nbsp;·&nbsp; BTS
+
+→ Mise en place d'un affichage dynamique pour un hôtel lors des **JO Paris 2024**
+→ Développement d'interfaces interactives en **HTML**, **CSS**, **JavaScript**
+→ Conception d'un compte à rebours animé en JavaScript
 
 </details>
 
 <details>
-<summary><b>💼 Expérience Pro & Bénévolat</b></summary>
+<summary><b>Expérience Professionnelle & Bénévolat</b></summary>
 
 <br/>
 
-**📦 Préparateur de Commandes — Carrefour SupplyChain** · *Juil. 2022 – Actuel* · Intérim
+**Préparateur de Commandes — Carrefour SupplyChain, La Courneuve** &nbsp;·&nbsp; *Juil. 2022 – Actuel* &nbsp;·&nbsp; Intérim
 
-- Préparation commandes magasins · Construction palettes · **CACES R489** obtenu juil. 2022
+→ Préparation et organisation des commandes destinées aux magasins
+→ Construction et agencement de palettes selon les procédures logistiques
+→ Application rigoureuse des règles de sécurité en entrepôt
+→ Obtention du **CACES R489** en juillet 2022
 
-**🙏 Animateur — Diocèse de Saint Denis** · *Sep. 2024 – Actuel* · Bénévolat
+---
 
-- Encadrement d'enfants · Organisation d'événements paroissiaux
+**Animateur — Diocèse de Saint Denis** &nbsp;·&nbsp; *Sep. 2024 – Actuel* &nbsp;·&nbsp; Bénévolat
+
+→ Animation et encadrement d'activités pour enfants
+→ Organisation d'événements paroissiaux
+→ Formation *Protéger l'enfance* (MOOCit, juin 2025)
 
 </details>
 
@@ -225,7 +239,19 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
+&nbsp;
+![Repos](https://img.shields.io/badge/Projets%20réalisés-8-A78BFA?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
+
+</div>
+
+<br/>
 
 <div align="center">
 
