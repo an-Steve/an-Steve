@@ -273,18 +273,22 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
 &nbsp;
-![Repos](https://img.shields.io/badge/Projets%20Réalisés-51-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projets%20réalisés-51-A78BFA?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=a78bfa&logo=github&logoColor=white&label=Followers)
+![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=header" width="100%"/>
-</div>
+<br/><br/>
 
-###  Résumé des contributions
+### 🗓️ Résumé des contributions
 ![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
 
 <br/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+
+<br/><br/>
 
 ### ⚡ Activity & Stats
 
