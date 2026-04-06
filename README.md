@@ -39,7 +39,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 |---|---|
 | 🚀 | **Stage 3 mois** recherché · dès **avril 2026** |
 | 📍 | **Paris, Île-de-France** |
-| 🌐 | **Langues** : FR · EN · ES · Tamoul |
+| 🌐 | **Langues** : 🇫🇷 Français &nbsp;·&nbsp; 🇬🇧 Anglais &nbsp;·&nbsp; 🇪🇸 Espagnol &nbsp;·&nbsp; 🇱🇰 Tamoul |
 | 🏆 | **Certifications** : CACES · PIX · TOEIC · KET |
 
 </td>
@@ -136,34 +136,53 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## Stack Technique
+## Compétences
 
 <div align="center">
 
-### Web & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<table>
+<tr>
+<td align="center" width="33%">
 
-### Data Science & IA
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+**Web & Mobile**
 
-### Bases de données & Systèmes
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Data Science & IA**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+**Bases de données & Systèmes**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -196,20 +215,35 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-**Développeur Web & Mobile — TiqTec, La Courneuve** &nbsp;·&nbsp; *Mai – Juil. 2025* &nbsp;·&nbsp; Licence 3
+```
+┃
+┃  Mai – Juil. 2025  ·  Licence 3
+◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃  Développeur Web & Mobile — TiqTec, La Courneuve
+┃
+```
 
 → Conception d'un site vitrine avec **WordPress** & **Laragon**
-→ Développement d'une application Android en **Kotlin**
-→ Réalisation d'un jeu d'échecs 2D avec **Python** & **Pygame**
-→ Tests fonctionnels (QA) et gestion de base de données **MySQL** / **PhpMyAdmin**
+<br/>→ Développement d'une application Android en **Kotlin**
+<br/>→ Réalisation d'un jeu d'échecs 2D avec **Python** & **Pygame**
+<br/>→ Tests fonctionnels (QA) et gestion de base de données **MySQL** / **PhpMyAdmin**
 
----
-
-**Développeur Informatique — StreamVision, Paris** &nbsp;·&nbsp; *Mai – Juil. 2023* &nbsp;·&nbsp; BTS
+```
+┃
+┃  Mai – Juil. 2023  ·  BTS
+◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃  Développeur Informatique — StreamVision, Paris
+┃
+```
 
 → Mise en place d'un affichage dynamique pour un hôtel lors des **JO Paris 2024**
-→ Développement d'interfaces interactives en **HTML**, **CSS**, **JavaScript**
-→ Conception d'un compte à rebours animé en JavaScript
+<br/>→ Développement d'interfaces interactives en **HTML**, **CSS**, **JavaScript**
+<br/>→ Conception d'un compte à rebours animé en JavaScript
+
+```
+┃
+▽
+```
 
 </details>
 
@@ -218,20 +252,35 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-**Préparateur de Commandes — Carrefour SupplyChain, La Courneuve** &nbsp;·&nbsp; *Juil. 2022 – Actuel* &nbsp;·&nbsp; Intérim
+```
+┃
+┃  Juil. 2022 – Actuel  ·  Intérim
+◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃  Préparateur de Commandes — Carrefour SupplyChain, La Courneuve
+┃
+```
 
 → Préparation et organisation des commandes destinées aux magasins
-→ Construction et agencement de palettes selon les procédures logistiques
-→ Application rigoureuse des règles de sécurité en entrepôt
-→ Obtention du **CACES R489** en juillet 2022
+<br/>→ Construction et agencement de palettes selon les procédures logistiques
+<br/>→ Application rigoureuse des règles de sécurité en entrepôt
+<br/>→ Obtention du **CACES R489** en juillet 2022
 
----
-
-**Animateur — Diocèse de Saint Denis** &nbsp;·&nbsp; *Sep. 2024 – Actuel* &nbsp;·&nbsp; Bénévolat
+```
+┃
+┃  Sep. 2024 – Actuel  ·  Bénévolat
+◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+┃  Animateur — Diocèse de Saint Denis
+┃
+```
 
 → Animation et encadrement d'activités pour enfants
-→ Organisation d'événements paroissiaux
-→ Formation *Protéger l'enfance* (MOOCit, juin 2025)
+<br/>→ Organisation d'événements paroissiaux
+<br/>→ Formation *Protéger l'enfance* (MOOCit, juin 2025)
+
+```
+┃
+▽
+```
 
 </details>
 
