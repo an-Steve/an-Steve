@@ -68,7 +68,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║         🧠  RECONNAISSANCE D'ÉMOTIONS FACIALES                  ║
+║           RECONNAISSANCE D'ÉMOTIONS FACIALES                     ║
 ║                   par Deep Learning — CNN                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -81,7 +81,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 <tr>
 <td width="50%">
 
-**🔬 Ce que j'ai réalisé :**
+** → Ce que j'ai réalisé :**
 - Architecture CNN multicouches : `Conv2D` → `MaxPooling` → `Dropout` → `Dense`
 - Entraînement sur dataset d'images labellisées (joie, colère, tristesse, surprise…)
 - Visualisation des prédictions vs vérités terrain dans une grille comparative
@@ -208,42 +208,33 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-## Expériences
+## 💼 Expériences
 
 <details open>
 <summary><img src="https://img.shields.io/badge/Stages%20Académiques-7c3aed?style=for-the-badge&logoColor=white" /></summary>
 
 <br/>
 
-```
-┃
-┃  Mai – Juil. 2025  ·  Licence 3
-◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃  Développeur Web & Mobile — TiqTec, La Courneuve
-┃
-```
+### **Développeur Web & Mobile** — TiqTec, La Courneuve
+*Mai – Juil. 2025 • Licence 3*
 
-→ Conception d'un site vitrine avec **WordPress** & **Laragon**
-<br/>→ Développement d'une application Android en **Kotlin**
-<br/>→ Réalisation d'un jeu d'échecs 2D avec **Python** & **Pygame**
-<br/>→ Tests fonctionnels (QA) et gestion de base de données **MySQL** / **PhpMyAdmin**
+* **Web :** Conception d'un site vitrine avec **WordPress** & **Laragon**
+* **Mobile :** Développement d'une application Android en **Kotlin**
+* **Logiciel :** Réalisation d'un jeu d'échecs 2D avec **Python** & **Pygame**
+* **QA & Data :** Tests fonctionnels et gestion de base de données **MySQL** / **PhpMyAdmin**
 
-```
-┃
-┃  Mai – Juil. 2023  ·  BTS
-◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃  Développeur Informatique — StreamVision, Paris
-┃
-```
+---
 
-→ Mise en place d'un affichage dynamique pour un hôtel lors des **JO Paris 2024**
-<br/>→ Développement d'interfaces interactives en **HTML**, **CSS**, **JavaScript**
-<br/>→ Conception d'un compte à rebours animé en JavaScript
+### **Développeur Informatique** — StreamVision, Paris
+*Mai – Juil. 2023 • BTS*
 
-```
-┃
-▽
-```
+* **Projet JO Paris 2024 :** Mise en place d'un affichage dynamique pour un hôtel
+* **Frontend :** Développement d'interfaces interactives en **HTML**, **CSS**, **JavaScript**
+* **Animation :** Conception d'un compte à rebours animé en JavaScript
+
+<br/>
+
+`▽`
 
 </details>
 
@@ -252,41 +243,30 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-```
-┃
-┃  Juil. 2022 – Actuel  ·  Intérim
-◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃  Préparateur de Commandes — Carrefour SupplyChain, La Courneuve
-┃
-```
+### **Préparateur de Commandes** — Carrefour SupplyChain
+*Juil. 2022 – Actuel • Intérim*
 
-→ Préparation et organisation des commandes destinées aux magasins
-<br/>→ Construction et agencement de palettes selon les procédures logistiques
-<br/>→ Application rigoureuse des règles de sécurité en entrepôt
-<br/>→ Obtention du **CACES R489** en juillet 2022
+* Préparation et organisation des commandes destinées aux magasins
+* Construction et agencement de palettes selon les procédures logistiques
+* Application rigoureuse des règles de sécurité en entrepôt
+* **Certification :** Obtention du **CACES R489** (Juillet 2022)
 
-```
-┃
-┃  Sep. 2024 – Actuel  ·  Bénévolat
-◉━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-┃  Animateur — Diocèse de Saint Denis
-┃
-```
+---
 
-→ Animation et encadrement d'activités pour enfants
-<br/>→ Organisation d'événements paroissiaux
-<br/>→ Formation *Protéger l'enfance* (MOOCit, juin 2025)
+### **Animateur** — Diocèse de Saint Denis
+*Sep. 2024 – Actuel • Bénévolat*
 
-```
-┃
-▽
-```
+* Animation et encadrement d'activités pour enfants
+* Organisation d'événements paroissiaux
+* **Formation :** *Protéger l'enfance* (MOOCit, juin 2025)
+
+<br/>
+
+`▽`
 
 </details>
 
 ---
-
-<br/>
 
 ## GitHub Stats
 
