@@ -283,11 +283,8 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 <br/>
 
 <div align="center">
-
-| 🗓️ Mes contributions | 🏆 Top Trophy |
-| :---: | :---: |
-| <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="350" src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=1&margin-w=15&background=0d0221" /></a> |
-
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=1&margin-w=15&background=0d0221" />
 </div>
 
 <br/>
@@ -324,7 +321,4 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
-</div>
-
-<br/>
 </div>
