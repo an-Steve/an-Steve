@@ -267,18 +267,19 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 </details>
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
 &nbsp;
-![Repos](https://img.shields.io/badge/Projets%20réalisés-51-A78BFA?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Projets%20Réalisés-51-8b5cf6?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
+![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=a78bfa&logo=github&logoColor=white&label=Followers)
 
-<br/><br/>
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=60&section=header" width="100%"/>
+</div>
 
 ###  Résumé des contributions
 ![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
