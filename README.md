@@ -210,7 +210,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ##  Expériences
 
-<details open>
+<details>
 <summary><img src="https://img.shields.io/badge/Stages%20Académiques-7c3aed?style=for-the-badge&logoColor=white" /></summary>
 
 <br/>
