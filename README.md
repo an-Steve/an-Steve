@@ -283,8 +283,10 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 <br/>
 
 <div align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=1&margin-w=15&background=0d0221" />
+
+### 🗓️ Résumé des contributions
+![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
+
 </div>
 
 <br/>
@@ -301,9 +303,9 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <div align="center">
 
-### ⚡ Activity & Streak
+### ⚡ Activity & Stats
   
-![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8892b0)
+![GitHub Stats Custom](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=Projets+Total&longStreakLabel=Total+Stars&dates=8892b0)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AN-Steve&theme=tokyo-night&bg_color=0d0221&color=A78BFA&line=7c3aed&point=FB923C&hide_border=true&area=true)
 
@@ -322,3 +324,5 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
 </div>
+
+<br/>
