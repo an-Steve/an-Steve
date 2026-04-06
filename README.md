@@ -269,48 +269,40 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ---
 
 ## 📊 GitHub Stats
-<center>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
+&nbsp;
 ![Repos](https://img.shields.io/badge/Projets%20réalisés-51-A78BFA?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
-</center>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-###  Résumé des contributions
+### 🗓️ Résumé des contributions
 ![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
 
-</div>
-
 <br/>
-
-<div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
 &nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<div align="center">
+<br/><br/>
 
 ### ⚡ Activity & Stats
+
+![Total Repos](https://img.shields.io/badge/Projets%20Total-51-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
 ![GitHub Stats Custom](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=Projets+Total&longStreakLabel=Total+Stars&dates=8892b0)
 
+<br/>
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AN-Steve&theme=tokyo-night&bg_color=0d0221&color=A78BFA&line=7c3aed&point=FB923C&hide_border=true&area=true)
 
-</div>
 </div>
 
 ---
@@ -326,5 +318,3 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
 </div>
-
-<br/>
