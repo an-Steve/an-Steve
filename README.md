@@ -269,10 +269,11 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ---
 
 ## 📊 GitHub Stats
-
+<center>
 ![Repos](https://img.shields.io/badge/Projets%20réalisés-51-A78BFA?style=for-the-badge&logo=github&logoColor=white)
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/AN-Steve?style=for-the-badge&color=0d0221&labelColor=7c3aed&logo=github&logoColor=white&label=Followers)
+</center>
 
 </div>
 
@@ -302,8 +303,6 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 <div align="center">
 
 ### ⚡ Activity & Stats
-
-![Total Repos](https://img.shields.io/badge/Projets%20Total-51-7c3aed?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
