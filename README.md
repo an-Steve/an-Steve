@@ -1,7 +1,12 @@
 <div align="center">
 
-<!-- HEADER ANIMÉ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ANTON%20NELCON%20Steve&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Master%20Informatique%20·%20Big%20Data%20%26%20Intelligence%20Artificielle&descAlignY=58&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=ANTON%20NELCON%20Steve&fontSize=46&fontColor=e2d9f3&fontAlignY=40&desc=Master%20Informatique%20·%20Big%20Data%20%26%20Intelligence%20Artificielle&descAlignY=62&descSize=15&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=650&lines=🎓+Master+IBD+·+Université+Paris+8;🤖+Big+Data+%7C+Machine+Learning+%7C+Deep+Learning;🚀+Stage+de+3+mois+recherché+·+Disponible+dès+avril+2026;📍+Paris%2C+Île-de-France)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,7 +14,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Étudiant+Master+IBD+·+Paris+%7C+Disponible+avril+2026)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/)
+[![CV](https://img.shields.io/badge/Télécharger%20CV-059669?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1)
+[![Email](https://img.shields.io/badge/antonsteve05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
 </div>
 
@@ -19,34 +27,32 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="55%" valign="top">
 
-### 👤 Qui suis-je ?
+## 👋 Bienvenue sur mon GitHub
 
-> Passionné par la data, l'IA et le développement logiciel, je construis des solutions concrètes à la croisée des mondes **Big Data**, **machine learning** et **développement full-stack**.
-
-🎓 **Master IBD** — *Informatique Big Data & IA*
-🚀 **Stage recherché** — 3 mois · à partir d'**avril 2026**
-📍 **Paris, Île-de-France**
-🕐 **Disponible immédiatement**
+Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA** à l'Université Paris 8. Passionné par les données, les algorithmes d'apprentissage et le développement logiciel, je construis des solutions à la croisée du **Big Data**, du **Machine Learning** et du **développement full-stack**.
 
 <br/>
 
-[![CV](https://img.shields.io/badge/─────%20Télécharger%20le%20CV%20─────-0f0c29?style=for-the-badge&logo=adobeacrobatreader&logoColor=A78BFA)](https://github.com/user-attachments/assets/fc505ab8-fe72-40a3-8254-c5e11df6b2e1)
-[![Portfolio](https://img.shields.io/badge/─────%20Voir%20le%20Portfolio%20─────-302b63?style=for-the-badge&logo=googlechrome&logoColor=7DD3FC)](https://an-steve.github.io/Portefolio-de-Steve/)
+| 🎓 | **Master IBD** — Université Paris 8 *(en cours)* |
+|---|---|
+| 🚀 | **Stage 3 mois** recherché · dès **avril 2026** |
+| 📍 | **Paris, Île-de-France** |
+| 🌐 | **Langues** : FR · EN · ES · Tamoul |
+| 🏆 | **Certifications** : CACES · PIX · TOEIC · KET |
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center" valign="middle">
 
 <img src="https://github.com/user-attachments/assets/c9108247-632b-4ccf-a96a-881baaeb6e88"
      alt="Steve Anton Nelcon"
-     width="160" height="160"
+     width="165" height="165"
      style="border-radius:50%;"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
-[![Gmail](https://img.shields.io/badge/antonsteve05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
+> *"Transformer la donnée brute en insight, c'est mon moteur."*
 
 </td>
 </tr>
@@ -56,40 +62,53 @@
 
 <br/>
 
-## 🛠️ Stack Technique
+## ⭐ Projet Coup de Cœur
 
 <div align="center">
 
-**🌐 Développement Web & Mobile**
+```
+╔══════════════════════════════════════════════════════════════════╗
+║         🧠  RECONNAISSANCE D'ÉMOTIONS FACIALES                  ║
+║                   par Deep Learning — CNN                        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+</div>
 
-**🤖 Intelligence Artificielle & Data**
+> **Conception et entraînement d'un réseau de neurones convolutif (CNN) from scratch pour la classification automatique des émotions faciales humaines.**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-**🗄️ Bases de données & Systèmes**
+**🔬 Ce que j'ai réalisé :**
+- Architecture CNN multicouches : `Conv2D` → `MaxPooling` → `Dropout` → `Dense`
+- Entraînement sur dataset d'images labellisées (joie, colère, tristesse, surprise…)
+- Visualisation des prédictions vs vérités terrain dans une grille comparative
+- Analyse fine des erreurs et de la matrice de confusion
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+</td>
+<td width="50%">
 
-**⚙️ Outils & Matériels**
+**🛠️ Stack technique :**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Concepts clés :**
+`CNN` · `Dropout` · `Softmax` · `Cross-entropy` · `Data Augmentation`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Voir le code](https://img.shields.io/badge/📂%20Code%20source%20sur%20GitHub-1f1f1f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/an-Steve/Reseaux-de-Neurones-Convolutif)
+&nbsp;
+[![Rapport PDF](https://img.shields.io/badge/📄%20Rapport%20complet%20PDF-7c3aed?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/Impl%C3%A9mentation%20de%20R%C3%A9seaux%20de%20Neurones%20Convolutifs%20(CNN)%20en%20Python-2.pdf)
 
 </div>
 
@@ -97,15 +116,71 @@
 
 <br/>
 
-## 📈 Parcours
+## 🗂️ Autres Projets
+
+<div align="center">
+
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| 🌍 **Analyse Espérance de Vie** | Données de 193 pays (2000–2015) · corrélations socio-économiques & santé | `Tableau` `Excel` | [GitHub](https://github.com/an-Steve/-Analyse-Mondiale-de-l-Esperance-de-Vie-et-des-Maladies) |
+| 📈 **Prédiction Natalité ML** | Random Forest + K-Means · 187 pays · prédictions 2021–2030 | `Python` `scikit-learn` `Pandas` | [GitHub](https://github.com/an-Steve/Natality-IA) |
+| 🎮 **Jeu Mario 2D/3D** | Jeu arcade Python · collisions, audio, mode sombre, double langue | `Python` `Ursina` | [GitHub](https://github.com/an-Steve/Jeu-d-arcade-Mario-2D-3D) |
+| 🛍️ **E-Commerce Parfums** | Site e-commerce responsive et moderne | `HTML` `CSS` `JS` `PHP` | [GitHub](https://github.com/an-Steve/Site-de-parfum) |
+| ✈️ **App Réservation de Vols** | App Android · recherche de vols par destination et date | `Kotlin` `Android Studio` | [GitHub](https://github.com/an-Steve/Application-Android) |
+| 🌦️ **Météo Temps Réel** | App météo mondiale via API · entièrement déployée en ligne | `API` `HTML` `CSS` `JS` | [Démo](https://an-steve.github.io/Meteo/) · [GitHub](https://github.com/an-Steve/Meteo/tree/main) |
+| 🔐 **Auth Sécurisé** | Formulaire connexion/inscription · sessions · i18n · mode sombre | `PHP` `MySQL` `SQL` | [Démo](https://an-steve.github.io/Formulaire-dauthenfication-/) |
+
+</div>
+
+---
+
+<br/>
+
+## 🛠️ Stack Technique
+
+<div align="center">
+
+### 🌐 Web & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🤖 Data Science & IA
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🗄️ Bases de données & Systèmes
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+</div>
+
+---
+
+<br/>
+
+## 📈 Parcours Académique
 
 <div align="center">
 
 ```
-  2018         2021         2024         2025        En cours
-   ◉────────────◉────────────◉────────────◉─────────────◉
-Brevet des   Bac STI2D    BTS SNIR    Licence ISEI   Master IBD
-  collèges
+   2018           2021           2024           2025         En cours
+    ◉──────────────◉──────────────◉──────────────◉──────────────◉
+ Brevet DNB     Bac STI2D      BTS SNIR      Licence ISEI    Master IBD
+  Collège       Lycée Paul     Lycée Paul    Université       Université
+ Paul Langevin  Le Rolland     Éluard          Paris 8          Paris 8
 ```
 
 </div>
@@ -116,55 +191,33 @@ Brevet des   Bac STI2D    BTS SNIR    Licence ISEI   Master IBD
 
 ## 💼 Expériences
 
-<details>
-<summary><b>🎓 Expériences Académiques</b></summary>
+<details open>
+<summary><b>🎓 Stages Académiques</b></summary>
 
 <br/>
 
-### 🔵 Développeur Web & Mobile — TiqTec, La Courneuve
-📅 *Mai – Juillet 2025* · Licence 3
+**🔵 Développeur Web & Mobile — TiqTec, La Courneuve** · *Mai – Juil. 2025* · Licence 3
 
-- Conception d'un **site vitrine** avec WordPress & Laragon
-- Développement d'une **app Android** en Kotlin
-- Réalisation d'un **jeu d'échecs 2D** avec Python & Pygame
-- Tests fonctionnels en tant que **testeur QA**
-- Administration de bases de données via **PhpMyAdmin / MySQL**
+- Site vitrine WordPress + Laragon · App Android Kotlin · Jeu d'échecs 2D Python/Pygame · Tests QA · Admin MySQL/PhpMyAdmin
 
----
+**🟣 Développeur Informatique — StreamVision, Paris** · *Mai – Juil. 2023* · BTS
 
-### 🟣 Développeur Informatique — StreamVision, Paris
-📅 *Mai – Juillet 2023* · BTS
-
-- Mise en place d'un **affichage dynamique** pour un hôtel durant les **JO Paris 2024**
-- Développement d'interfaces interactives en **HTML, CSS, JavaScript**
-
----
-
-### 🟢 Stage d'Observation 3ème — École Maternelle Paul Langevin, Drancy
-📅 *Décembre 2017 · 1 semaine*
+- Affichage dynamique hôtel pour **JO Paris 2024** · Interfaces interactives HTML/CSS/JS · Compte à rebours animé JavaScript
 
 </details>
 
 <details>
-<summary><b>💼 Expériences Professionnelles & Bénévolat</b></summary>
+<summary><b>💼 Expérience Pro & Bénévolat</b></summary>
 
 <br/>
 
-### 📦 Préparateur de Commandes — Carrefour SupplyChain, La Courneuve
-📅 *Juillet 2022 – Actuel* · Intérim
+**📦 Préparateur de Commandes — Carrefour SupplyChain** · *Juil. 2022 – Actuel* · Intérim
 
-- Préparation et organisation des commandes magasins
-- Construction de palettes selon procédures logistiques
-- Application des règles de sécurité entrepôt
-- Obtention du **CACES** · *Juillet 2022*
+- Préparation commandes magasins · Construction palettes · **CACES R489** obtenu juil. 2022
 
----
+**🙏 Animateur — Diocèse de Saint Denis** · *Sep. 2024 – Actuel* · Bénévolat
 
-### 🙏 Animateur Bénévole — Diocèse de Saint Denis
-📅 *Septembre 2024 – Actuel*
-
-- Animation et encadrement d'activités pour enfants
-- Organisation d'événements paroissiaux
+- Encadrement d'enfants · Organisation d'événements paroissiaux
 
 </details>
 
@@ -176,14 +229,21 @@ Brevet des   Bac STI2D    BTS SNIR    Licence ISEI   Master IBD
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=7DD3FC&text_color=c9d1d9&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+&nbsp;
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=FB923C&currStreakLabel=7DD3FC)
+![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8892b0)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AN-Steve&theme=tokyo-night&bg_color=0d0221&color=A78BFA&line=7c3aed&point=FB923C&hide_border=true&area=true)
 
 </div>
 
@@ -193,6 +253,6 @@ Brevet des   Bac STI2D    BTS SNIR    Licence ISEI   Master IBD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Merci%20de%20votre%20visite%20!&fontSize=22&fontColor=A78BFA&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=130&section=footer&text=Merci%20de%20votre%20visite%20!%20🚀&fontSize=24&fontColor=A78BFA&animation=twinkling&fontAlignY=55" />
 
 </div>
