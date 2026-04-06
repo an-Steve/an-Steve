@@ -269,60 +269,12 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ---
 ## 📊 GitHub Stats
 
-<br/>
-
 <div align="center">
-  <table style="border: 2px solid #7c3aed; border-radius: 12px; background-color: #0d0221; color: white; border-collapse: separate; border-spacing: 0;">
-    <tr>
-      <td colspan="5" align="center" style="padding: 15px 0 0 0; border: none;">
-        <h3 style="display: flex; align-items: center; justify-content: center; margin: 0; color: white; font-size: 20px;">
-          <img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" alt="chart" style="height: 1.2em; vertical-align: middle; margin-right: 10px;"/>
-          GitHub Stats
-        </h3>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" style="border: none; padding: 10px 0;"></td>
-    </tr>
-    <tr>
-      <td width="30%" align="center" style="padding: 0 10px; border: none;">
-        <div style="font-size: 40px; font-weight: bold; color: #a78bfa; line-height: 1;">51</div>
-        <div style="font-size: 16px; color: white; padding-top: 15px;">Projets Réalisés</div>
-        <div style="font-size: 12px; color: rgba(255,255,255,0.7); padding-top: 5px;">GitHub Repositories</div>
-      </td>
-      <td width="2%" align="center" style="padding: 0; border: none;">
-        <div style="width: 2px; height: 120px; background-color: rgba(255,255,255,0.2);"></div>
-      </td>
-      <td width="30%" align="center" style="padding: 0 10px; border: none;">
-        <div style="position: relative; display: inline-block;">
-          <div style="width: 80px; height: 80px; border-radius: 50%; border: 4px solid #7c3aed; display: flex; align-items: center; justify-content: center;">
-            <div style="font-size: 40px; font-weight: bold; color: white; line-height: 1;">
-              <img src="https://komarev.com/ghpvc/?username=AN-Steve&color=0d0221&style=flat-square&label=%20" alt="Views Count" style="height: 0.8em; margin: 0; vertical-align: middle; background:transparent;"/>
-            </div>
-          </div>
-          <img src="https://em-content.zobj.net/source/microsoft-teams/363/fire_1f525.png" alt="fire" style="position: absolute; top: -15px; left: calc(50% - 12px); width: 24px;"/>
-        </div>
-        <div style="font-size: 16px; color: #7c3aed; font-weight: bold; padding-top: 15px;">Vues du Profil</div>
-        <div style="font-size: 12px; color: rgba(255,255,255,0.7); padding-top: 5px;">AN-Steve</div>
-      </td>
-      <td width="2%" align="center" style="padding: 0; border: none;">
-        <div style="width: 2px; height: 120px; background-color: rgba(255,255,255,0.2);"></div>
-      </td>
-      <td width="30%" align="center" style="padding: 0 10px; border: none;">
-        <div style="font-size: 40px; font-weight: bold; color: #a78bfa; line-height: 1;">
-          <img src="https://img.shields.io/github/followers/AN-Steve?style=flat-square&label=%20&color=0d0221" alt="Followers Count" style="height: 0.8em; margin: 0; vertical-align: middle; background:transparent;"/>
-        </div>
-        <div style="font-size: 16px; color: white; padding-top: 15px;">Followers</div>
-        <div style="font-size: 12px; color: rgba(255,255,255,0.7); padding-top: 5px;">Active Users</div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="5" style="border: none; padding: 20px 0;"></td>
-    </tr>
-  </table>
-</div>
 
-<br/>
+![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
+
+<br/><br/>
+
 
 ### ⚡ Activity & Stats
 
