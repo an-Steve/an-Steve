@@ -282,11 +282,12 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/>
 
-### 🏆 GitHub Trophies
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=7&margin-w=15&background=0d0221" alt="GitHub Trophies" />
-  </a>
+
+| 🗓️ Mes contributions | 🏆 Top Trophy |
+| :---: | :---: |
+| <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight" /> | <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="350" src="https://github-profile-trophy.vercel.app/?username=AN-Steve&theme=tokyonight&no-frame=true&column=1&margin-w=15&background=0d0221" /></a> |
+
 </div>
 
 <br/>
@@ -303,36 +304,27 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <div align="center">
 
-###  Activity & Streak
+### ⚡ Activity & Streak
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8892b0)
-
-</div>
-
-<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AN-Steve&theme=tokyo-night&bg_color=0d0221&color=A78BFA&line=7c3aed&point=FB923C&hide_border=true&area=true)
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-###  Mes contributions en 3D
-  
-![3D Contribs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AN-Steve&theme=tokyonight)
-
-</div>
-
----
-
 *Merci d'avoir parcouru mon profil — n'hésitez pas à me contacter !*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=flat-square&logo=googlechrome&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansteve/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://an-steve.github.io/Portefolio-de-Steve/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonsteve05@gmail.com)
+
+</div>
+
+<br/>
 </div>
