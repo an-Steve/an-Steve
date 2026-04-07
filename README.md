@@ -287,7 +287,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 ### 🛠️ Mes Langages les plus utilisés
 
 <div align="center">
-  <img height="300" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AN-Steve&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AN-Steve&theme=tokyonight" />
 </div>
 <br/><br/>
 
