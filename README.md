@@ -301,13 +301,6 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ---
 
-### 📈 Vue d'ensemble de mes Contributions
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/AN-Steve?template=classic&base=repositories%2C%20metadata&theme=tokyonight" />
-</div>
-
-<div align="center">
 
 *Merci d'avoir parcouru mon profil — n'hésitez pas à me contacter !*
 
