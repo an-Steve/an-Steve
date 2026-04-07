@@ -270,8 +270,6 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 </details>
 
 ---
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
