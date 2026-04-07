@@ -276,7 +276,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil)
+![Profile Views](https://komarev.com/ghpvc/?username=AN-Steve&style=for-the-badge&color=7c3aed&label=Vues+du+profil+(30j)&period=30)
 &nbsp;
 ![Repos](https://img.shields.io/badge/Projets%20réalisés-51-7c3aed?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221)
 &nbsp;
