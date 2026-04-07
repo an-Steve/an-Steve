@@ -301,6 +301,7 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 ---
 
+<div align="center">
 
 *Merci d'avoir parcouru mon profil — n'hésitez pas à me contacter !*
 
