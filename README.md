@@ -284,9 +284,14 @@ Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA
 
 <br/><br/>
 
+### 🛠️ Langages & Habitudes
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AN-Steve&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AN-Steve&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+
+<br/><br/>
 
 ### ⚡ Activity & Stats
-
 
 ![GitHub Stats Custom](https://streak-stats.demolab.com?user=AN-Steve&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=FB923C&currStreakLabel=Projets+Total&longStreakLabel=Total+Stars&dates=8892b0)
 
