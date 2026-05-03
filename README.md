@@ -31,7 +31,7 @@
 
 ## Bienvenue sur mon GitHub
 
-Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data & IA** à l'Université Paris 8. Passionné par les données, les algorithmes d'apprentissage et le développement logiciel, je construis des solutions à la croisée du **Big Data**, du **Machine Learning** et du **développement full-stack**.
+Je suis **Steve Anton Nelcon**, étudiant en **Master Informatique Big Data** à l'Université Paris 8. Passionné par les données, les algorithmes d'apprentissage et le développement logiciel, je construis des solutions à la croisée du **Big Data**, du **Machine Learning** et du **développement full-stack**.
 
 <br/>
 
