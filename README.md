@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1033,50:5b21b6,100:a78bfa&height=200&section=header&text=Steve%20ANTON%20NELCON&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Big%20Data%20%26%20Intelligence%20Artificielle&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <img src="https://an-steve.github.io/Portefolio-de-Steve/newlogosteve.png" width="90" alt="Logo Steve"/>
 
